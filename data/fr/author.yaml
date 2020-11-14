@@ -1,0 +1,18 @@
+# some information about you
+name: "Pablo Ignacio Marcos López"
+nickname: "Pablo"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Bonjour, je suis"
+image: "images/author/avataaars.png"
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "contact@pablomarcos.me"
+
+# some summary about what you do
+summary:
+  - Je suis un biotechnologiste informatique
+  - Je suis un passionné de logiciels libres
+  - J'aime le développement de logiciels
+  - Je travail sur des projets Open Source

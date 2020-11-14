@@ -1,0 +1,45 @@
+ # section information
+section:
+  name: Feuille de Route
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+  
+# Your experiences
+experiences:
+- company:
+    name: "Universidad Politécnica de Madrid"
+    url: "upm.es"
+    location: Madrid, Espagne
+    # company overview
+    overview: L'UPM est l'une des principales universités techniques d'Europe et la plus prestigieuse école d'ingénieurs de la Region de Madrid.
+  positions:
+  - designation: Stagiaire
+    start: Jun 2020
+    end: Sept 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities: 
+        - Pendant la bourse de collaboration entre enseignants et étudiants "Du jeu à la théorie", j'ai aidé à programmer "Who's that Function", un jeu interactif qui enseigne aux étudiants les principes fondamentaux des fonctions et leurs propriétés d'une manière engageante et intéressante, avec une dynamique de jeu similaire à celle de la série "Qui est Qui".
+        - flyingflamingo.itch.io/whos-that-function
+
+    
+
+- company:
+    name: Universidad Politécnica de Madrid & Institut National des Sciences Appliquées de Lyon
+    url: "https://www.upm.es/Estudiantes/Estudios_Titulaciones/EstudiosOficialesGrado/ArticulosRelacionados?fmt=detail&prefmt=articulo&id=fd8c88ff1da0f210VgnVCM10000009c7648a____"
+    location:  Madrid, Espagne et Lyon, France
+  positions:
+  - designation: Diplômé en Biotechnologie Informatique
+    start: Sept 2017
+    end: Jul 2020
+    responsibilities:
+        - Évaluer et discerner les différents mécanismes moléculaires et cellulaires responsables des transformations effectuées par les êtres vivants, ainsi que pouvoir développer des solutions alternatives et nouvelles aux problèmes biologiques connus et/ou émergents.
+        - Concevoir et réaliser des expériences et/ou des applications de manière indépendante et décrire, quantifier, analyser et évaluer de manière critique les résultats obtenus.
+        - Développer la recherche biotechnologique (technologies de pointe), en vue de son application ultérieure.
+        - Préparer et gérer des projets d'entreprise et des projets de recherche, de développement et d'innovation (R+D+i).
+        - J'ai également participé à un échange ERASMUS, qui m'a permis d'améliorer mes compétences en français et d'explorer d'autres domaines de connaissance, comme la biologie computationnelle.

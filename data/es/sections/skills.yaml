@@ -1,0 +1,40 @@
+# section information
+section:
+  name: Habilidades
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Scripting en Python
+  icon: "/images/sections/python.png"
+  summary: "Tengo conocimientos avanzados sobre Python como lenguaje de scripting en general, y BioPython como paquete en particular, especialmente aplicados a la biología computacional."
+  url: "https://codeberg.org/FlyingFlamingo/BioPython-Analyzer"
+
+- name: Administración de sistemas GNU/Linux
+  icon: "/images/sections/linux.png"
+  summary: "Uso GNU/Linux como mi Sistema Operativo principal, y gestiono un servidor self-hosted usando una Raspberry Pi y Yunohost. Principalmente, trabajo con derivadas de debian."
+
+- name: Desarollo de Videojuegos en Godot
+  icon: "/images/sections/godot.png"
+  summary: "He usado el Godot Engine como parte de 'Who's That Function', un programa interactivo destinado a enseñar a los estudiantes novatos las propiedades fundamentales de las funciones."
+  url: "https://codeberg.org/FlyingFlamingo/Whos-That-Function"
+  
+- name: English
+  icon: "/images/sections/UK.png"
+  summary: "Nivel: C1 | Reading: C2 | Listening: C1 | Grammar: B1 | Vocabulary: C1, de acuerdo a Cambridge English"
+  url: "files/CAE.pdf"
+  
+- name: Español
+  icon: "/images/sections/Spain.png"
+  summary: "Soy un hablante nativo, ya que nací en Madrid"
+  
+- name: Français
+  icon: "/images/sections/France.png"
+  summary: "Level: B2 | Reading: C2 | Listening: C1 | Grammar: B1 | Vocabulary: C1, de acuerdo al sistema OLS de la UE"
+  url: "files/French B2.pdf"

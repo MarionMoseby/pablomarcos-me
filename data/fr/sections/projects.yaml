@@ -1,0 +1,95 @@
+# section information
+section:
+  name: Projets
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: Tous
+  filter: "all"
+- name:  Professionnel
+  filter: "professional"
+- name: Académique
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+- name: Volontariat
+  filter: "volunteering"
+
+# your projects
+projects:
+- name: Who's That Function
+  logo: /images/sections/godot.png
+  role:  Programmeur
+  timeline: "Juin 2020 - Août 2020"
+  url: https://codeberg.org/FlyingFlamingo/Whos-That-Function
+  #url: If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Un jeu dans le style de la série "Who's Who" qui apprend aux étudiants de première année les propriétés des traits.
+  tags: ["professional", "godot engine", "GDScript"]
+
+- name: Modélisation de CoViD-19 en Python
+  logo: /images/sections/coronavirus.png
+  role:  Écrivain
+  timeline: "Juin 2020"
+  #repo: https://github.com/tensorflow/tensorflow
+  url: "files/ Alóndiga_Marcos_Patón_Estudio_de_la_Pandemia_por_CoViD-19_mediante_modelos_compartimentales.pdf"
+  summary: Un paper mesurant l'impact des restrictions de mouvement sur la première vague de CoViD-19 en Espagne
+  tags: ["academic", "mathematic models","biotechnology"]
+  
+- name: Représentant au Conseil Départemental @ UPM
+  role: 
+  timeline: "Septembre 2018 - Actualité"
+  #repo: https://github.com/hossainemruz/toha
+  summary:  J'ai fait partie du conseil du département de biotechnologie-biologie végétale de mon école, ETSIAAB-UPM, où j'ai eu le droit de voter et de participer au processus de prise de décision.
+  tags: ["academic"] 
+
+- name: Wikipedia
+  logo: /images/sections/wikipedia.png
+  role:  Contributeur
+  timeline: "Mai 2015 - Actualité"
+  #repo: https://github.com/hossainemruz/toha
+  summary: Je contribue à Wikipédia, le corpus de connaissances collectives de l'Humanité.
+  url: https://es.wikipedia.org/wiki/Usuario:Marion_Moseby
+  tags: ["hobby","open source","volunteering"] 
+
+- name: AULA
+  role: Volontaire
+  timeline: "Mai 2019"
+  logo: /images/sections/aula.jpg
+  summary: J'ai été bénévole au Salon International de l'Etudiant AULA, où j'ai eu l'occasion d'orienter des centaines d'étudiants sur leur carrière, ainsi que de me renseigner sur l'organisation de grands événements.
+  tags: ["volunteering"] 
+
+- name: Reparto Solidario Universitario
+  role:  Volontaire
+  timeline: "2017-2020"
+  summary:  Depuis plus de trois ans, je suis bénévole au RSU, une activité reconnue par l'UPM où nous aidons les sans-abri en leur donnant de la nourriture et en leur permettant de discuter.
+  url: https://www.instagram.com/rsu_madrid/?hl=es
+  tags: ["volunteering"] 
+  
+- name: OpenStreetMap
+  role: Contributeur
+  timeline: "Mai 2019"
+  logo: /images/sections/osm.png
+  summary: Je contribue à l'OSM, le plus grand ensemble de données géospatiales mondiales ouvertes.
+  tags: ["volunteering", "hobby"] 
+
+- name: Conférence sur le changement climatique COP25
+  role: Volontaire
+  timeline: "2019"
+  summary: J'ai participé en tant que volontaire au Sommet du climat de Madrid 2019, où j'ai appris à connaître la durabilité et l'organisation de grands événements.
+  url: "files/COP25 Certificate.pdf"
+  tags: ["volunteering"] 
+  
+- name: BOINC
+  role: Volontaire
+  timeline: "2016 - Actualité"
+  logo: /images/sections/boinc.jpg
+  url: "/files/BOINC.pdf"
+  summary: je contribue à la puissance de traitement gratuite du plus grand nombre possible de mes appareils au réseau BOINC.
+  tags: ["volunteering"] 

@@ -1,0 +1,58 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Computational Biotechnology graduate
+# your company information
+company:
+  name: UPM-ETSIAAB and INSA Lyon
+  url: "http://www.etsiaab.upm.es/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV_EN.pdf"
+
+# a summary about you
+summary: 'I am a recent Computational Biotechnology graduate with an special interest in Free Software and Health. I am specially interested in the fields of privacy and data science.  In my free time, I contribute to Wikipedia and Openstreetmap.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  #url: "mailto:contact@pablomarcos.me"
+- name: Codeberg
+  icon: "fab fa-github-alt"
+  url: "https://codeberg.org/FlyingFlamingo/"
+- name: Mastodon
+  icon: "fab fa-mastodon"
+  url: "https://mastodon.art/@akalanka"
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Team Work
+  percentage: 85
+  color: yellow
+- name: Storytelling
+  percentage: 90
+  color: blue
+- name: Public Speaking
+  percentage: 90
+  color: orange
+- name: Writing Skills
+  percentage: 80
+  color: sky
+- name: Creativity
+  percentage: 85
+  color: pink
+- name: Flexibility
+  percentage: 90
+  color: green

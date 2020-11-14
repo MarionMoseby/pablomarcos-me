@@ -1,0 +1,45 @@
+ # section information
+section:
+  name: Roadmap
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+  
+# Your experiences
+experiences:
+- company:
+    name: "Universidad Politécnica de Madrid"
+    url: "upm.es"
+    location: Madrid, Spain
+    # company overview
+    overview: UPM is one of tne of the leading European technical universities and the most prestigious engineer's school in the Madrid Region.
+  positions:
+  - designation: Intern
+    start: June 2020
+    end: Sept 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities: 
+        - During the 'From Game to Theory' teacher-student colaboration scholarship, I helped program 'Who's that Function', an interactive game which teaches students the basics of functions and their properties in an engaging and interesting manner, with an in-game dynamic similar to the 'Who's Who' series."
+        - flyingflamingo.itch.io/whos-that-function
+    
+
+- company:
+    name: Universidad Politécnica de Madrid & Institut National des Sciences Appliquées de Lyon
+    url: "https://www.upm.es/Estudiantes/Estudios_Titulaciones/EstudiosOficialesGrado/ArticulosRelacionados?fmt=detail&prefmt=articulo&id=fd8c88ff1da0f210VgnVCM10000009c7648a____"
+    location: Madrid, Spain and Lyon, France
+  positions:
+  - designation: Graduate in Computational Biotechnology
+    start: Sept 2017
+    end: Jul 2020
+    responsibilities:
+    - To evaluate and discern the different molecular and cellular mechanisms responsible for transformations carried out by living beings, as well as to be able to develop alternatives and novelties to known and/or emerging biological problems.
+    - To design and carry out experiments and/or applications independently and to describe, quantify analyse and critically evaluate the results obtained.
+    - To develop biotechnological research (frontier technologies), with a view to its applications.
+    - To prepare and manage business projects and research, development and innovation (R&D&I).
+    - I also took part in an ERASMUS exchange, wich helped me improve my French skills and branch into other areas of knowledge, such as computater science.
+
