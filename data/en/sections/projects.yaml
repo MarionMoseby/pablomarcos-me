@@ -55,7 +55,7 @@ projects:
   #repo: https://github.com/hossainemruz/toha
   summary: I contribute to Wikipedia, the collective corpus of knowledge of Humanity
   url: https://es.wikipedia.org/wiki/Usuario:Marion_Moseby
-  tags: ["hobby","open source","volunteering"] 
+  tags: ["hobby","open source"] 
 
 - name: AULA
   role: Volunteer
@@ -76,7 +76,7 @@ projects:
   timeline: "2017 - Present"
   logo: /images/sections/osm.png
   summary: I contribute to OSM, the biggest Open Dataset for geospatial data
-  tags: ["volunteering", "hobby"] 
+  tags: ["open source", "hobby"] 
 
 - name: COP25 Climate Change Conference
   role: Volunteer

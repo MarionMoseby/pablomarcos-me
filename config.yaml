@@ -34,10 +34,10 @@ params:
   background: "/images/site/background.png"
   
   # GitHub repo URL of your site
-  gitRepo: https://codeberg.org/FlyingFlamingo/pages
+  gitRepo: https://codeberg.org/FlyingFlamingo/pablomarcos.me
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true

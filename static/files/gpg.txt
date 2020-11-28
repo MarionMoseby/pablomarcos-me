@@ -1,0 +1,23 @@
+[EN]: In case you want to communicate with me in a more private way, you can send me a PGP-cyphered email by using the following public key:
+
+[ES]: En caso de que quieras comunicarte conmigo de forma más privada, puedes enviarme un correo electrónico cifrado con PGP usando la siguiente clave pública:
+
+[FR] : Si vous souhaitez communiquer avec moi de manière plus privée, vous pouvez m'envoyer un courriel chiffré en PGP en utilisant la clé publique suivante :
+
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: Mailvelope v4.4.0
+Comment: https://www.mailvelope.com
+
+xjMEX77gbhYJKwYBBAHaRw8BAQdAYpu96xhRaqTuCx7fIfjdq1rjsh/w6jEl
+eNGdbq+llCPNJVBhYmxvIE1hcmNvcyA8Y29udGFjdEBwYWJsb21hcmNvcy5t
+ZT7CdwQQFgoAHwUCX77gbgYLCQcIAwIEFQgKAgMWAgECGQECGwMCHgEACgkQ
+Cy31EJVa4+4rigD9HsjK8GRgDEHlUxi79BG8zbvgez8xKXoLbvi3Sx/vt14A
+/3sT8fodqv3FgQ58bK3cntRhLmwJrdzjTsQhQTgZ9FkNzjgEX77gbhIKKwYB
+BAGXVQEFAQEHQKIdR3jX7lrKZ574ci2aksRMxzTOt916rtFIbYjY7l9HAwEI
+B8JhBBgWCAAJBQJfvuBuAhsMAAoJEAst9RCVWuPuMb0A/3Hfm4g+OUaLWnvR
+iepH5uvMqT2c1U8ClENxQ2PsMrYAAQCVb4ZE+G6FrEpF+lB/362XMTNv2rUN
+EgQLvNjyTiWyCQ==
+=Obpg
+-----END PGP PUBLIC KEY BLOCK-----
+ 

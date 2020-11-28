@@ -5,5 +5,7 @@ copyright: © 2020 Pablo Ignacio Marcos López
 description: Portfolio y blog personal de Pablo Marcos.
 
 customMenus:
-- name: Notes
-  url: https://hossainemruz.gitbook.io/notes/
+- name: Source
+  url: https://codeberg.org/FlyingFlamingo/pablomarcos.me
+- name: Blog
+  url: /posts

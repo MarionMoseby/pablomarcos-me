@@ -24,10 +24,13 @@ summary: 'I am a recent Computational Biotechnology graduate with an special int
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
+  icon: "fas fa-envelope-open-text"
+  url: "mailto:contact@pablomarcos.me"
+- name: PGP
   icon: "fas fa-envelope"
-  #url: "mailto:contact@pablomarcos.me"
+  url: /files/gpg.txt
 - name: Codeberg
-  icon: "fab fa-github-alt"
+  icon: "fab fa-git-alt"
   url: "https://codeberg.org/FlyingFlamingo/"
 - name: Mastodon
   icon: "fab fa-mastodon"
