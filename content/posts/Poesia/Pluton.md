@@ -1,7 +1,7 @@
 ---
 title: "Plutón"
 date: 2018-10-06
-hero: /posts/Poesía/Imágenes/Plutón.jpeg
+hero: /posts/Poesia/Imagenes/Pluton.jpeg
 menu:
   sidebar:
     name: Plutón
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 Otra vez Venus me niega su luz mientras se cierne sobre mí la noche. Me acuerdo de ti, que encendiste los fuegos de Marte en mi corazón, mientras busco la forma de no perderme en mi propio mundo.

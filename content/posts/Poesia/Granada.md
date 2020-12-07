@@ -1,7 +1,7 @@
 ---
 title: "Granada"
 date: 2019-06-12
-hero: /posts/Poesía/Imágenes/Granada.jpg
+hero: /posts/Poesia/Imagenes/Granada.jpg
 menu:
   sidebar:
     name: Granada
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 Tema: Granada 

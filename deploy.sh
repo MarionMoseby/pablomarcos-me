@@ -1,34 +1,42 @@
 #!/bin/bash    
 
-#First, generate the static HTML pages in a new public directory
+# ---- First, generate the static HTML pages in a new public directory -----
+echo -e "Building Site ..."
 rm -r ./public/
-hugo -D
-
-#Add the robots.txt file to the public directory
-echo -e "User-agent: *  \nDisallow: /" > ./public/robots.txt
+hugo -D > /dev/null
+echo -e "User-agent: *  \nDisallow: /" > ./public/robots.txt #Add the robots.txt file
+echo -e "www.pablomarcos.me" > ./public/CNAME #And also the CNAME
 mkdir ./public/🐣 #Future easter egg
 
-#OVH does not like me to ftp, so I have to zip and unpack myself... unnerving I know
-rm www.zip
-zip -r www.zip ./public/
+# ---- FINALLY. NO FTP, JUST GH-PAGES!!!! -----
+echo -e "Replacing old site with the new one ..."
+if [ -d "../gh-pages" ]; then
+    cd ../gh-pages
+    rm -rf `ls | grep -v "README.md\|LICENSE"` 
+    #With -f, rm does not complain about missing files
+    mv ../pablomarcos.me/public/* ../gh-pages #Move the content to the gh-pages repo
+else
+    echo -e "[ERROR]: Could not find gh-pages repository"
+    exit 1
+fi
 
-#And upload the new www zip directory in lieu of the old one
-lftp -e "rm -r ./www/; put www.zip; bye" ftp.cluster029.hosting.ovh.net
-#PS: This only works if you have stored your credentials on ~/.netrc like:
-#machine ftp.yourhost.com login your_username password your_password
-
-echo -e "Waiting for the user to unpack the zip. Click any key to continue..."
-read nothing
-lftp -e "rm www.zip" ftp.cluster029.hosting.ovh.net
-
-#Now, remove the www zip...
-rm -r ./www
-
-#And sync the git repository
-git add .
-echo -e "Type a comment for Git..."
+# ---- Sync HTML to Github ----
+echo -e "Uploading to GitHub Pages. Please provide a comment for Git ..."
 read commit
-git commit -m "$1"
+git add .
+git commit -m "$commit"
 git push
-
 echo -e "Site has being deployed"
+
+# ---- Sync Source Code to Codeberg ----
+cd ../pablomarcos.me/
+echo -e "Uploading source code to Codeberg. Please provide a Git comment ..."
+read commit
+git add .
+git commit -m "$commit"
+git push
+echo -e "Source code has been published"
+
+
+echo -e "Gracias por contar con MARIPILI, tu asistente virtual para publicar páginas web"
+exit 0

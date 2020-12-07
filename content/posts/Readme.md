@@ -1,7 +1,7 @@
 ---
 title: "Readme"
 date: 2020-11-23T04:12:00+06:00
-hero: /posts/Poesía/Imágenes/Templete El Capricho.jpg 
+hero: /posts/Poesia/Imagenes/Templete El Capricho.jpg 
 description: Features of Hugo theme Toha
 menu:
   sidebar:

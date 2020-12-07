@@ -1,7 +1,7 @@
 ---
 title: "Rubato"
 date: 2019-05-20
-hero: /posts/Poesía/Imágenes/Rubato.png
+hero: /posts/Poesia/Imagenes/Rubato.png
 menu:
   sidebar:
     name: Rubato
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 Si me tendieses de nuevo una trampa, volvería a caer. Me tiraría de cabeza, como un jabalí herido, con el corazón por delante como un corredor de carreras intoxicado de colacao.

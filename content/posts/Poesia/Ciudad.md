@@ -1,7 +1,7 @@
 ---
 title: "Ciudad"
 date: 2019-02-01
-hero: /posts/Poesía/Imágenes/Ciudad.jpeg
+hero: /posts/Poesia/Imagenes/Ciudad.jpeg
 menu:
   sidebar:
     name: Ciudad
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 Tengo alergia al reloj, que carcome con sus manecillas de plata cada segundo que me queda.

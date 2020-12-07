@@ -1,7 +1,7 @@
 ---
 title: "Efecto Pigmalión"
 date: 2018-11-30
-hero: /posts/Poesía/Imágenes/Efecto Pigmalión.jpeg
+hero: /posts/Poesia/Imagenes/Efecto Pigmalion.jpeg
 menu:
   sidebar:
     name: Efecto Pigmalión
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 El efecto pigmalión, ¿sabes que si crees en ti mismo todo lo puedes? ¿Y que si no, eres un ser despreciable, un amargado innombrable que no merece compasión?

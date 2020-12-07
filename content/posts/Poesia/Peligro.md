@@ -1,7 +1,7 @@
 ---
 title: "Colisión Inminente"
 date: 2020-04-19
-hero: /posts/Poesía/Imágenes/Peligro.jpeg
+hero: /posts/Poesia/Imagenes/Peligro.jpeg
 menu:
   sidebar:
     name: Colisión Inminente
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Mr Framework
-  image: /posts/Poesía/Imágenes/Mr Framework.png
+  image: /posts/Poesia/Imagenes/Mr Framework.png
 ---
 
 Título: Colisión Inminente

@@ -1,7 +1,7 @@
 ---
 title: "Miedo"
 date: 2018-11-12
-hero: /posts/Poesía/Imágenes/Miedo.jpeg
+hero: /posts/Poesia/Imagenes/Miedo.jpeg
 menu:
   sidebar:
     name: Miedo
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 Es como la espina de una rosa fría y vanidosa, que se clava en tus entrañas; como una serpiente huidiza que te acecha siempre tras la cortina.

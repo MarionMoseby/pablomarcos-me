@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Computational Biotechnology graduate
+designation: Computational Biotechnology undergraduate
 # your company information
 company:
   name: UPM-ETSIAAB and INSA Lyon
@@ -18,7 +18,7 @@ company:
 resume: "files/CV_EN.pdf"
 
 # a summary about you
-summary: 'I am a recent Computational Biotechnology graduate with an special interest in Free Software and Health. I am specially interested in the fields of privacy and data science.  In my free time, I contribute to Wikipedia and Openstreetmap.'
+summary: 'I am an undergraduate in Computational Biotechnology with an special interest in Free Software and Health. I am specially interested in the fields of privacy and data science.  In my free time, I contribute to Wikipedia and Openstreetmap.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

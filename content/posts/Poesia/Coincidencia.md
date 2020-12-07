@@ -1,7 +1,7 @@
 ---
 title: "Coincidencia"
 date: 2018-10-05
-hero: /posts/Poesía/Imágenes/Coincidencia.png
+hero: /posts/Poesia/Imagenes/Coincidencia.png
 menu:
   sidebar:
     name: Coincidencia
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 Coincidencia es que siempre sea el príncipe (alto, fuerte y guapo) quien se lleve a la princesa; y que yo, ni lo uno ni lo otro, me enamore de un dragón que me encerró en su castillo

@@ -1,7 +1,7 @@
 ---
 title: "La Revolución"
 date: 2019-04-12
-hero: /posts/Poesía/Imágenes/Hermanos.jpg
+hero: /posts/Poesia/Imagenes/Hermanos.jpg
 menu:
   sidebar:
     name: La Revolución
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 ¡Vamos, hermanos, a luchar por la revolución!

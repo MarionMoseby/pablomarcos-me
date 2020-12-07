@@ -1,7 +1,7 @@
 ---
 title: "David Revoy's Cats"
 date: 2020-03-17
-hero: /posts/Poesía/Imágenes/David Revoy.png
+hero: /posts/Poesia/Imagenes/David Revoy.png
 menu:
   sidebar:
     name: Cute Cats
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Mr Framework
-  image: /posts/Poesía/Imágenes/Mr Framework.png
+  image: /posts/Poesia/Imagenes/Mr Framework.png
 ---
 Ok, so: There's nothing cuter than @davidrevoy 's cat generator! You should definetely give it a try! You can see mine below hehe.
 

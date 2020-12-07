@@ -1,7 +1,7 @@
 ---
 title: "Introducción"
 date: 2018-09-28
-hero: /posts/Poesía/Imágenes/Introducción.jpeg
+hero: /posts/Poesia/Imagenes/Introduccion.jpeg
 menu:
   sidebar:
     name: Introducción
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 Cuando el viento siente la cabeza cerraré yo mi boca. Cuando no quede ya luz lucharé por encender una chispa. Como un tren desbocado destinado a caerse por un precipicio; como un loco, un gallito, un idiota, un simple monito.

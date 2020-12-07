@@ -1,7 +1,7 @@
 ---
 title: "If ants rose up"
 date: 2020-04-26
-hero: /posts/Poesía/Imágenes/Ants.jpeg
+hero: /posts/Poesia/Imagenes/Ants.jpeg
 menu:
   sidebar:
     name: If ants rose up
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Mr Framework
-  image: /posts/Poesía/Imágenes/Mr Framework.png
+  image: /posts/Poesia/Imagenes/Mr Framework.png
 ---
 
 If ants rose up, they would take over your room. They would march like silent sentinels, through their hidden passages and their obscure tunnels, down into the deepest realms of yourself.

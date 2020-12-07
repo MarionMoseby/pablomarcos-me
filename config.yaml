@@ -1,4 +1,4 @@
-baseURL: https://pablomarcos.me
+baseURL: https://flyingflamingo.codeberg.page
 
 languageCode: en-us
 title: "Pablo Marcos' Blog"
@@ -34,7 +34,7 @@ params:
   background: "/images/site/background.png"
   
   # GitHub repo URL of your site
-  gitRepo: https://codeberg.org/FlyingFlamingo/pablomarcos.me
+  gitRepo: https://codeberg.org/FlyingFlamingo/pablomarcos.me/
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false

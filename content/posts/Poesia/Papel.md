@@ -1,7 +1,7 @@
 ---
 title: "Papel"
 date: 2020-11-18
-hero: /posts/Poesía/Imágenes/Papel.jpeg
+hero: /posts/Poesia/Imagenes/Papel.jpeg
 menu:
   sidebar:
     name: Papel
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Mr Framework
-  image: /posts/Poesía/Imágenes/Mr Framework.png
+  image: /posts/Poesia/Imagenes/Mr Framework.png
 ---
 
 Bueno bueno bueno... Después de meses preocupado por los exámenes... I'm back, bitches!! 🥳🥳 Como era eso? Miércoles un post de Estrechos de Miras 🤓 y Domingo uno recién horneado 🥐? Vamos allá!!

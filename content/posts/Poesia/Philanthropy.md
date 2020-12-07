@@ -1,7 +1,7 @@
 ---
 title: "Philantropy"
 date: 2018-10-30
-hero: /posts/Poesía/Imágenes/Philantropy.png
+hero: /posts/Poesia/Imagenes/Philantropy.png
 menu:
   sidebar:
     name: Philantropy
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 Title: ‘Philanthropy’, they say

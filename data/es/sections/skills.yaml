@@ -28,7 +28,7 @@ skills:
 - name: English
   icon: "/images/sections/UK.png"
   summary: "Nivel: C1 | Reading: C2 | Listening: C1 | Grammar: B1 | Vocabulary: C1, de acuerdo a Cambridge English"
-  url: "files/CAE.pdf"
+  url: "/files/CAE.pdf"
   
 - name: Español
   icon: "/images/sections/Spain.png"
@@ -37,4 +37,4 @@ skills:
 - name: Français
   icon: "/images/sections/France.png"
   summary: "Level: B2 | Reading: C2 | Listening: C1 | Grammar: B1 | Vocabulary: C1, de acuerdo a la Université Grenoble Alpes"
-  url: "files/French B2.pdf"
+  url: "/files/French B2.pdf"

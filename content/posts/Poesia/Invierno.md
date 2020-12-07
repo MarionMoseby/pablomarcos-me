@@ -1,7 +1,7 @@
 ---
 title: "Ahora soy Invierno"
 date: 2020-03-22
-hero: /posts/Poesía/Imágenes/Invierno.jpeg
+hero: /posts/Poesia/Imagenes/Invierno.jpeg
 menu:
   sidebar:
     name: Ahora soy Invierno
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Mr Framework
-  image: /posts/Poesía/Imágenes/Mr Framework.png
+  image: /posts/Poesia/Imagenes/Mr Framework.png
 ---
 
 Hace unos años me asustaba el otoño; ahora, soy invierno. Hace unos años, temía quedarme sólo; ahora, canto el himno sonoro de la libertad. Con un clavo te ha desclavado Pablito, yo que estaba loquito por tus huesos; y ya no son tus besos, las nubes de cristal roto con que me corto. He cogido el espejo y he reconstruido poco a poco la portada de un nuevo capítulo de este loco libro de aventuras en que ya no me ahogo.

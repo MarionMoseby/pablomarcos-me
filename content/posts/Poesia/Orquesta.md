@@ -1,7 +1,7 @@
 ---
 title: "Orquesta 🎻 🎺"
 date: 2016-11-11
-hero: /posts/Poesía/Imágenes/Orquesta.png
+hero: /posts/Poesia/Imagenes/Orquesta.png
 menu:
   sidebar:
     name: Orquesta 🎻 🎺

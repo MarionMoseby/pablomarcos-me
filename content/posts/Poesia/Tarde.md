@@ -1,7 +1,7 @@
 ---
 title: "Tarde"
 date: 2019-02-25
-hero: /posts/Poesía/Imágenes/Tarde.png
+hero: /posts/Poesia/Imagenes/Tarde.png
 menu:
   sidebar:
     name: Tarde
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 Bueno, bueno, bueno... Pues... después de bastante agobio por la uni... I'm back! Y el nuevo tema es... Reloj ⌚ ⌚ ⌚ 

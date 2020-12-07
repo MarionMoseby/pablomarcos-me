@@ -1,7 +1,7 @@
 ---
 title: "Egoísmo"
 date: 2020-05-03
-hero: /posts/Poesía/Imágenes/Egoísmos.jpg
+hero: /posts/Poesia/Imagenes/Egoismos.jpg
 menu:
   sidebar:
     name: Egoísmo
@@ -9,7 +9,7 @@ menu:
     parent: poemas
 author:
   name: Mr Framework
-  image: /posts/Poesía/Imágenes/Mr Framework.png
+  image: /posts/Poesia/Imagenes/Mr Framework.png
 ---
 
 Soy egoista cuando sólo sueño con volver a verte, cuando otros sueñan con salvar su vida. Soy egoista cuando no me importa la pandemia, cuando quiero salir y cuando me harta la tragedia.

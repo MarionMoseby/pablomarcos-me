@@ -1,7 +1,7 @@
 ---
 title: "Fuego 🔥 🔥"
 date: 2019-03-19
-hero: /posts/Poesía/Imágenes/Fuego.png
+hero: /posts/Poesia/Imagenes/Fuego.png
 menu:
   sidebar:
     name: Fuego 🔥 🔥
@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Estrechos de Miras
-  image: /posts/Poesía/Imágenes/Estrechos.jpg
+  image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
 Qué fácil es ver el fuego y decir que arde, pero a mí me hiela las venas ver cómo la gente se consume buscando una luz, una chispa en forma de incendio, un fantasma de locura que devora el mundo.
