@@ -10,7 +10,8 @@ menu:
     weight: 1
 ---
 
-[English Version Below]
+[WIP]: This is a WIP introduction for my blog, and I have not yet completed it
+<!--[English Version Below]
 
 Bienvenido a mi Blog personal, un sitio donde mantengo una recopilación de las cosas que escribo, de lo que soy y de mi filosofía, controladas por mí y no por una plataforma de terceros.
 
@@ -30,5 +31,5 @@ Pero bueno, ya se sabe: "estos son mis principios; si no le gustan, tengo otros"
 He dudado mucho si añadir esta sección, si era buena idea dejar abierta la puerta a que cualquier persona supiese asociar mi nombre a lo que pienso
 
 ### Lo que no soy
-<!-- Infalible; el papa -->
-### Gestionado por mi y no por terceros
+Infalible; el papa
+### Gestionado por mi y no por terceros-->

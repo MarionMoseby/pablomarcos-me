@@ -46,6 +46,7 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
+  #Add custom logos and favicon
   logo:
     main: "images/main-logo.png"
     inverted: "images/inverted-logo.png"
