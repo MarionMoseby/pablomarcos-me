@@ -1,6 +1,6 @@
 ---
 title: "Concurso de Carteles para el Centro de Lenguas UPM"
-date: 2020-12-12
+date: 2020-12-20
 hero: /posts/Arte/Imagenes/Pluma.png
 menu:
   sidebar:
