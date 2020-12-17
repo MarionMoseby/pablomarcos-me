@@ -1,6 +1,6 @@
 ---
 title: "La noche de las Brujas"
-date: 2020-12-16
+date: 2019-07-23
 hero: /posts/Poesia/Imagenes/Eclipse.png
 menu:
   sidebar:
@@ -13,24 +13,24 @@ author:
   image: /posts/Poesia/Imagenes/Estrechos.jpg
 ---
 
-Es de noche y no hay luna, 
-y si no hay luna no hay luz;
-ni luz ni antorcha ilumina
+Es de noche y no hay luna, \
+y si no hay luna no hay luz; \
+ni luz ni antorcha ilumina \
 el cuerpo que esconden en su ataúd.
 
- ¡En el día del eclipse, en la noche de las brujas!
-Ahí se citan los tres para llenar de oro las alforjas
-Son un cura y un panadero, y los sigue un timador;
+ ¡En el día del eclipse, en la noche de las brujas! \
+Ahí se citan los tres para llenar de oro las alforjas \
+Son un cura y un panadero, y los sigue un timador; \
 Vienen a buscar dinero para comprar algo de calor.
 
-El uno escala la tapia, el otro vigila el jardín;
-les abre la puerta el tercero, que ha conquistado al edil.
-Van rondando la casa, buscando llenar su saco;
-sólo encuentran muebles de ikea, un poäng y un sollerön
+El uno escala la tapia, el otro vigila el jardín; \
+les abre la puerta el tercero, que ha conquistado al edil. \
+Van rondando la casa, buscando llenar su saco; \
+sólo encuentran muebles de ikea, un poäng y un sollerön.
 
-Cuando llegan al despacho, donde guarda lo de valor
-el edil está esperando: ha descubierto al traidor.
-Entre todos le dan muerte, por no dejar relator;
+Cuando llegan al despacho, donde guarda lo de valor \
+el edil está esperando: ha descubierto al traidor. \
+Entre todos le dan muerte, por no dejar relator; \
 si les preguntan quién lo hizo, ¡Fuenteovejuna, señor!
 
 ---
