@@ -8,9 +8,6 @@ menu:
     identifier: centrodelenguas2020
     parent: concursos
     weight: 40
-author:
-  name: Mr Framework
-  image: /posts/Poesia/Imagenes/Mr Framework.png
 ---
 
 He participado en el [I CONCURSO DE CARTELES](https://www.lenguas.upm.es/2020/12/16/i-concurso-de-carteles/) del Centro de Lenguas de la UPM, cuyo tema ha sido: “Las lenguas extranjeras y tú: cómo han influido en tu vida”. Aunque no he ganado, me parece que me ha quedado un cartel mono y original, que es lo que quería; para otro año, revisaré mejor Unsplash antes de tomar decisiones 🤓
