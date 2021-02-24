@@ -23,6 +23,6 @@ Dicho y hecho. Voy a dejar de escuchar. Por una vez, será mi turno de hablar, o
 
 Tema: Verde
 
-📸 : Photo by [Laura Lee](https://unsplash.com/@laura_lee) on Unsplash
+📸 : [Laura Lee](https://unsplash.com/@laura_lee) on Unsplash
 
 #verde #green #poesiaenespañol #poesia #poetry
