@@ -12,29 +12,29 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Python Scripting
-  icon: "/images/sections/python.png"
+  logo: "/images/sections/python.png"
   summary: "I have advanced knowledge on python as an scripting language, and BioPython as a package in particular, as used for Computational Biology."
   url: "https://codeberg.org/FlyingFlamingo/BioPython-Analyzer"
 
 - name: Linux System Administration
-  icon: "/images/sections/linux.png"
+  logo: "/images/sections/linux.png"
   summary: "I use GNU/Linux as my main Operating System, and I also manage a self-hosted server using a Raspberry Pi and Yunohost. Mostly debian derivatives."
 
 - name: Godot Development
-  icon: "/images/sections/godot.png"
+  logo: "/images/sections/godot.png"
   summary: "Used the Godot Engine as part of Who's That Function, an interactive program intended to teach novel students the fundamental properties of functions."
   url: "https://codeberg.org/FlyingFlamingo/Whos-That-Function"
   
 - name: English
-  icon: "/images/sections/UK.png"
+  logo: "/images/sections/UK.png"
   summary: "Level: C1 | Reading: C2 | Listening: C1 | Grammar: B1 | Vocabulary: C1, as certified per Cambridge English"
   url: "files/CAE.pdf"
   
 - name: Español
-  icon: "/images/sections/Spain.png"
+  logo: "/images/sections/Spain.png"
   summary: "I am a native speaker, as I was born in Madrid"
   
 - name: Français
-  icon: "/images/sections/France.png"
+  logo: "/images/sections/France.png"
   summary: "Level: B2 | Reading: C2 | Listening: C1 | Grammar: B1 | Vocabulary: C1, as certified per the Université Grenoble Alpes"
   url: "files/French B2.pdf"
