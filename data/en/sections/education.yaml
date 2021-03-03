@@ -3,7 +3,7 @@ section:
   name: Education
   id: education
   template: sections/education-alt.html # Use "sections/education-alt.html for alternate template.
-  enable: false
+  enable: true
   weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -12,23 +12,29 @@ section:
 degrees:
 - name: MSc in Computational Biotechnology
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2021-2023
   institution:
     name: Universidad Politécnica de Madrid
     url: "http://www.computationalbiologymaster.cbgp.upm.es/"  
+- name: ERASMUS on Bioinfomatics and Modelisation
+  icon: fa-university
+  timeframe: 2020-21
+  institution:
+    name: INSA Lyon
+    url: "https://biosciences.insa-lyon.fr/fr/content/parcours" 
 - name: BSc in Biotechnology
   icon: fa-university
-  timeframe: 2016-2020
+  timeframe: 2017-2021
   institution:
     name: Universidad Politécnica de Madrid
     url: "https://www.etsiaab.upm.es/Internacional/Studies/BSc_Degrees?fmt=detail&prefmt=articulo&id=4a0b81635ed45510VgnVCM10000009c7648a____" 
 - name: High School Diploma
   icon: fa-graduation-cap
-  timeframe: 2016-2020
+  timeframe: 2009-2017
   institution:
     name: Liceo Sorolla "C"
     url: "https://colegioliceosorolla.es/"  
   grade: #(optional)
-    scale: Selectividad
+    scale: GPA
     achieved: 13.175
     outOf: 14

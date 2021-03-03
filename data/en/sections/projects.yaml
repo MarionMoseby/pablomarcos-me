@@ -3,7 +3,7 @@ section:
   name: Projects
   id: projects
   enable: true
-  weight: 4
+  weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -31,6 +31,14 @@ projects:
   #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: A Who's Who-like game to show students the fundamental properties of functions. [In Spanish]
   tags: ["professional", "godot engine", "GDScript"]
+- name: Season of KDE 2021
+  logo: /images/sections/kde-logo.png
+  role: Programmer
+  timeline: "June 2020 - September 2020"
+  url: https://okular.kde.org # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: I helped modernize the website for Okular, KDE's universal document reader, by using Carl's Schwan's aether-sass theme.
+  tags: ["professional", "HUGO", "webdev", "html5"]
 
 - name: Covid Modelling Using Python
   logo: /images/sections/coronavirus.png
@@ -42,6 +50,7 @@ projects:
   tags: ["academic", "mathematic models","biotechnology"]
   
 - name: Board of Representatives @ UPM
+  logo: /images/sections/ETSIAAB.png
   role: Representative
   timeline: "September 2018 - Present"
   #repo: https://github.com/hossainemruz/toha
@@ -67,6 +76,7 @@ projects:
 - name: Reparto Solidario Universitario
   role: Volunteer
   timeline: "2017-2020"
+  logo: /images/sections/RSU.jpg
   summary: For more than three years, I have been a volunteer to RSU, a Recognized Activity @ UPM where we help the homeless by bringing them food and company.
   url: https://www.instagram.com/rsu_madrid/?hl=es
   tags: ["volunteering"] 
@@ -81,6 +91,7 @@ projects:
 - name: COP25 Climate Change Conference
   role: Volunteer
   timeline: "2019"
+  logo: /images/sections/COP25.png
   summary:  I have been a volunteer at the COP25 Madrid Climate Change summit, where I learnt first hand about the issues of our time, and how they can be solved with the help of science. I also got to see how big events are run and organized, first hand.
   url: "files/COP25 Certificate.pdf"
   tags: ["volunteering"] 

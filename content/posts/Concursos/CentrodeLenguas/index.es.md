@@ -13,4 +13,4 @@ He participado en el [I CONCURSO DE CARTELES](https://www.lenguas.upm.es/2020/12
 
 He aquí mi cartel:
 
-{{< figure src="/posts/Concursos/Imagenes/DondecomienzantusHistorias.jpg">}}
+{{< figure src="/posts/Imagenes/DondecomienzantusHistorias.jpg" alt="Las letras A, Ç, O y Ñ se sientan a la mesa en una manta de picnic a cuadros rojos y verdes. Encima suyo, se lee: 'Centro de Lenguas: Donde comienzan tus historias'. Abajo a la derecha, un QR para inscribirse en los cursos." >}}

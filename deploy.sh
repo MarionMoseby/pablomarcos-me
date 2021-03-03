@@ -3,7 +3,7 @@
 # ---- First, generate the static HTML pages in a new public directory -----
 echo -e "Building Site ..."
 rm -r ./public/
-hugo -D > /dev/null
+hugo > /dev/null #sin -D para no publicar drafts
 echo -e "User-agent: *  \nDisallow: /" > ./public/robots.txt #Add the robots.txt file
 echo -e "www.pablomarcos.me" > ./public/CNAME #And also the CNAME
 mkdir ./public/🐣 #Future easter egg

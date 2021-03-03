@@ -1,6 +1,7 @@
 ---
 title: "Readme"
 date: 2021-11-23T04:12:00+06:00
+draft: true
 hero: /images/site/Templete El Capricho.jpg 
 description: Features of Hugo theme Toha
 menu:
@@ -12,6 +13,8 @@ menu:
 
 [WIP]: This is a WIP introduction for my blog, and I have not yet completed it
 <!--[English Version Below]
+
+Hola! Soy 
 
 Bienvenido a mi Blog personal, un sitio donde mantengo una recopilación de las cosas que escribo, de lo que soy y de mi filosofía, controladas por mí y no por una plataforma de terceros.
 

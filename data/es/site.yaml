@@ -5,7 +5,7 @@ copyright: © 2020 Pablo Ignacio Marcos López
 description: Portfolio y blog personal de Pablo Marcos.
 
 customMenus:
-- name: Source
+- name: Fuente
   url: https://codeberg.org/FlyingFlamingo/pablomarcos.me
 - name: Blog
   url: /es/posts

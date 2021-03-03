@@ -3,7 +3,7 @@ title: "Cuando los Ciegos guían a los Locos"
 date: 2019-06-27
 menu:
   sidebar:
-    name: Cuando los Ciegos guían a los locos
+    name: Ciegos y Locos
     identifier: ciegosylocos
     parent: poemas
     weight: 40
