@@ -1,7 +1,6 @@
 ---
 title: "Total, si luego compras en el Zara…"
 date: 2019-09-18
-draft: true 
 menu:
   sidebar:
     name: Hipocresía
