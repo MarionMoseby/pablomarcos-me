@@ -17,6 +17,13 @@ languages:
     languageName: Français
     weight: 3
     
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON    
 
 # Control TOC depth
 markup:
