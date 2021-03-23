@@ -1,7 +1,6 @@
 ---
 title: "Narciso, me bajo a bailar"
 date: 2019-11-29
-draft: true 
 menu:
   sidebar:
     name: Narciso
