@@ -1,6 +1,6 @@
 ---
 title: "SoK 2021 March Report"
-date: 2021-03-26
+date: "2021-03-26"T18:00:00Z"
 menu:
   sidebar:
     name: SoK 2021 March
