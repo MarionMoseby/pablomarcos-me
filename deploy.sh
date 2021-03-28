@@ -4,6 +4,7 @@
 echo -e "Building Site ..."
 rm -r ./public/
 hugo > /dev/null #sin -D para no publicar drafts
+rm -r ./resources/ #I cannot get to gitignore this pesky folder
 echo -e "User-agent: *  \nDisallow: /" > ./public/robots.txt #Add the robots.txt file
 echo -e "www.pablomarcos.me" > ./public/CNAME #And also the CNAME
 mkdir ./public/🐣 #Future easter egg

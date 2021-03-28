@@ -1,7 +1,6 @@
 ---
 title: "Camino a la desesperación"
-date: 2019-12-18
-draft: true 
+date: 2019-12-18 
 menu:
   sidebar:
     name: Gingko

@@ -1,55 +1,57 @@
 ---
-title: "SoK 2021 March Report"
+title: "SoK 2021 - Informe de Marzo"
 date: 2021-03-26
 menu:
   sidebar:
-    name: SoK 2021 March
-    identifier: sokmarch
-    parent: seasonofkde2021
+    name: SoK 2021 Marzo
+    identifier: sokmarzo
+    parent: seasonofkde2021es
     weight: 40
 ---
 
-In the february post, I mentioned how I ordered the material that was on Carl Schwan's MVP for the Index page, explaining Okular's main features. Now that that was set, I had to add support for i18n, as it can be difficult for translators to work with a raw html template. [This was achieved by using the {{i18n}} HUGO template](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/a042f38d0fe1d781860a0056721e66349393b997), which specifies the translatable parts by using `{{ i18n "Section.variable" }}` in each of the strings to translate, and then mapping the values into a yaml file such as:
+En el post de febrero, expliqué como he reordenado el material que había en el MVP de Carl Schwan para el index, que ahora explica las principales características de Okular. Una vez hecho esto, me dediqué a añadir soporte para i18n, ya que puede ser difícil para los traductores trabajar con una plantilla de html crudo. Para ello, [he usado la plantilla {{i18n}} de HUGO](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/a042f38d0fe1d781860a0056721e66349393b997), que especifica las partes traducibles usando `{{ i18n "Section.variable" }}` en cada una de las cadenas a traducir, y luego mapeando los valores en un archivo yaml:
 
 <details>
-<summary>/i18n/en.yaml</summary>
+<summary>/i18n/es.yaml</summary>
 {{< highlight yaml >}}
-#Name of the translatable section
+#Nombre de la sección traducible.
 Section.variable:
-    other: "English translation for variable"
-Section.othervariable:
-    other: "English translation for othervariable"
-Section.yetanothervariable:
-    other: "English translation for yetanothervariable"
+    other: "Traducción al inglés de 'variable'"
+Section.othervariable::
+    other: "Traducción al inglés para 'othervariable'"
+Section.yetanothervariable::
+    other: "Traducción al inglés para 'yetanothervariable'"
 {{< /highlight >}}
 </details>
 
-I also used this to translate the table of supported formats in /applications. The final result can be seen here:
+También he utilizado esto para traducir la tabla de formatos soportados en /applications. El resultado final se puede ver aquí:
 
 {{< split 6 6 >}}
-{{< figure src="/posts/Imagenes/new-okular-site.png" alt="New Okular Website" >}}
-A cool homepage with i18 support
+{{< figure src="/posts/Imagenes/new-okular-site.png" alt="Nuevo sitio web de okular" >}}
+La página de inicio, con soporte para i18n
 ---
-{{< figure src="/posts/Imagenes/okular-formats.png" alt="New Okular Website's formats section" >}}
-And the list of file formats Okular can open
+{{< figure src="/posts/Imagenes/okular-formats.png" alt="Sección de formatos del nuevo sitio web de Okular" >}}
+Y la lista de formatos de archivo que Okular puede abrir
 {{< /split >}}
 
-Next, [I added the /contact page](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/0e7989a171c36f2d7d0b32332a43a490a27ccf59), which I redesigned and updated to include matrix. [I modified the index](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/1795c0da36113ee0219a69d66bfce1595218f94c) to include a refference to Okular's [upcoming PDF signing support](https://invent.kde.org/graphics/okular/-/merge_requests/296) (¡so neat! I might finally stop using [Autofirma](https://github.com/ctt-gob-es/clienteafirma)), and [cleaned up unnecesary files that were left from the transition](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/9cab0470f744252ecff9ef9721f71de084167dfb)
+A continuación, [añadí la página de /contacto](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/0e7989a171c36f2d7d0b32332a43a490a27ccf59), que rediseñé y actualicé para incluir la posibilidad de usar matrix. [También modifiqué el index](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/1795c0da36113ee0219a69d66bfce1595218f94c) para incluir una referencia a la [próxima funcionalidad de firma de PDFs](https://invent.kde.org/graphics/okular/-/merge_requests/296) de Okular (¡UwU! A ver si me sirve de reemplazo para [Autofirma](https://github.com/ctt-gob-es/clienteafirma)), y [limpié los archivos innecesarios que quedaban de la transición](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/9cab0470f744252ecff9ef9721f71de084167dfb) desde la web anterior.
 
 {{< split 6 6 >}}
-{{< figure src="/posts/Imagenes/okular-contact.png" alt="New Okular Website's contact section" >}}
-If you want to contact the developers, there is info on the contact page
+{{< figure src="/posts/Imagenes/okular-contact.png" alt="Nueva sección de contacto de la web de Okular" >}}
+Si quieres contactar con los desarrolladores, hay información en la página de contacto
 ---
-{{< figure src="/posts/Imagenes/okular-esign.png" alt="Okular's new eSign feature" >}}
-You will be able to sign your own pdfs as well as view and verify other signatures.
+{{< figure src="/posts/Imagenes/okular-esign.png" alt="Nueva función de firma de PDFs de Okular" >}}
+También puedes firmar tus propios pdfs así como ver y verificar otras firmas.
 {{< /split >}}
 
-I also wanted to add client-side [Site Search](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/05ce2a78d2b77d4e4e4e19e64a7e3601856095bf), as the one that existed was really just a button that redirected the search query to a google search. I was inspired by (some might even say *copied*) [eddieweb's popular gist](https://gist.github.com/eddiewebb/735feb48f50f0ddd65ae5606a1cb41ae), which not only does not require to install additional packages, but also highlights the matches, using JSON and Fuse.js. It was easy to add, but I am still proud! 🤩 It's nice to help the web transition away from google 😊 You can see how that looks like here:
+También quería añadir [un sistema de búsqueda del lado del cliente](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/05ce2a78d2b77d4e4e4e19e64a7e3601856095bf), ya que el que existía era realmente un botón que redirigía la consulta una búsqueda de Google. Me inspiré en (en los mentideros dirán que *me copié de*) [el popular gist de eddieweb](https://gist.github.com/eddiewebb/735feb48f50f0ddd65ae5606a1cb41ae), que no sólo no requiere instalar paquetes adicionales, sino que además resalta las coincidencias usando JSON y Fuse.js. Ha sido fácil de añadir, ¡pero sigo estando orgulloso! 🤩 Es bonito ayudar a hacer la web menos dependiente de google 😊 
 
-{{< figure src="/posts/Imagenes/okular-search.png" alt="New Okular Website's search section" >}}
-You can search using the navbar, and results are highlighted
+Puedes ver cómo queda aquí:
 
-So, it was a month with lots of work, but the site is finally ready! 🥳
+{{< figure src="/posts/Imagenes/okular-search.png" alt="Sección de búsqueda de la nueva web de Okular" >}}
+Puedes buscar usando la barra de navegación, y los resultados están resaltados
+
+Sí, ha sido un mes con mucho trabajo, pero, ¡por fin está todo listo! 🥳
 
 <style>
 details {

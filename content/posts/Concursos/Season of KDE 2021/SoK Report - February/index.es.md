@@ -1,18 +1,18 @@
 ---
-title: "SoK 2021 February Report"
+title: "SoK 2021 - Informe de Febrero"
 date: 2021-02-25
 menu:
   sidebar:
-    name: SoK 2021 February
-    identifier: sokfebruary
-    parent: seasonofkde2021
+    name: SoK 2021 Febrero
+    identifier: sokfebruaryes
+    parent: seasonofkde2021es
     weight: 40
 ---
 
-I started the month by [porting the Anouncements section from Raw HTML to Markdown](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/e3e8529ff33be74ea4d9ed59406fdef4e5418127), for which I wrote a small python script that parses all the content in [this news.rdf file](https://invent.kde.org/carlschwan/okular-kde-org/-/blob/b22f5e0e420cfddd406139eb814d02b82eeec95b/news.rdf), inherited from the old site, and creates several markdown post files that will be processed by the list and single templates of the aether-sass theme into the new section.
+Empecé el mes [portando la sección de Anuncios de HTML a Markdown](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/e3e8529ff33be74ea4d9ed59406fdef4e5418127), para lo cual escribí un pequeño script en python que analiza todo el contenido de [este archivo news.rdf](https://invent.kde.org/carlschwan/okular-kde-org/-/blob/b22f5e0e420cfddd406139eb814d02b82eeec95b/news.rdf), heredado del antiguo sitio, y crea varios archivos de posts en markdown que serán procesados por las plantillas 'list.html' y 'single.html' del tema aether-sass para convertirlas en la nueva sección.
 
 <details>
-<summary>To see the full python script, click here</summary>
+<summary>Para ver el script de python al completo, pincha aquí</summary>
 {{< highlight python >}}
 import re
 text_file = open("./news.rdf", "r")
@@ -63,24 +63,24 @@ for i in range(len(dates)):
 </details>
 
 
-Then, I [configured the project](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/9229e022294accb9b279d87f3d91fb1693251a61) to use the aforementioned [aether-sass](https://invent.kde.org/websites/aether-sass) (KDE's HUGO standard theme) as a Go module, as Git submodules are less desirable. Next, I added [a FAQ section](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/62829821d073506f15e46def4d0f1418ec215834), which was easy since most questions had been removed from the FAQ in a recent cleanup. For this, I used the `</details>` and `</summary>` HTML labels, which I didnt know about and which seem super cool to me. This was, also, the first time I experienced how a HUGO template works! Yay!
+Luego, [configuré el proyecto](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/9229e022294accb9b279d87f3d91fb1693251a61) para usar el ya mencionado [aether-sass](https://invent.kde.org/websites/aether-sass) (el tema estándar de KDE para HUGO) como módulo Go, ya que los submódulos Git son menos deseables. A continuación, añadí [una sección de preguntas frecuentes](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/62829821d073506f15e46def4d0f1418ec215834), lo cual fue fácil ya que la mayoría de las preguntas habían sido eliminadas en una limpieza reciente. Para ello, utilicé las etiquetas HTML `</details>` y `</summary>`, que no conocía y que me parecen super chulas. ¡Esta fue, también, la primera vez que experimenté cómo funciona una plantilla de HUGO! ¡Yay!
 
 {{< split 6 6 >}}
-{{< figure src="/posts/Imagenes/okular-news.png" alt="New Okular Website's mobile view for the News Section" >}}
-I improved the News section using HUGO's list.html and a python script
+{{< figure src="/posts/Imagenes/okular-news.png" alt="Vista móvil de la nueva web de Okular para la sección de noticias" >}}
+He mejorado la sección de Noticias usando list.html, de HUGO, y un script de python
 ---
-{{< figure src="/posts/Imagenes/okular-faq.png" alt="New Okular Website's mobile view for the FAQ section" >}}
-And added the FAQ using `<details>` and `<summary>`
+{{< figure src="/posts/Imagenes/okular-faq.png" alt="Vista móvil del nuevo sitio web de Okular para la sección de preguntas frecuentes" >}}
+Y he añadido las preguntas frecuentes usando `<detalles>` y `<resumen>`.
 {{< /split >}}
 
-Finally, [I added the new  /download and /build-it pages, as well as a new index](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/7b85b02878982032487e49058771c9685c39b213), using a mixture of HUGO markdown and raw html templates. You can see some screenshots below:
+Por último, [añadí las nuevas páginas /download y /build-it, así como un nuevo index](https://invent.kde.org/carlschwan/okular-kde-org/-/commit/7b85b02878982032487e49058771c9685c39b213), utilizando una mezcla de markdown de HUGO y plantillas de html. Puedes ver algunas capturas de pantalla a continuación:
 
 {{< split 6 6 >}}
-{{< figure src="/posts/Imagenes/okular-download.png" alt="New Okular Website's download section" >}}
-The download section helps you find the availaible download options.
+{{< figure src="/posts/Imagenes/okular-download.png" alt="Sección de descargas de la nueva web de Okular" >}}
+La sección de descargas te ayuda a encontrar las opciones de descarga disponibles.
 ---
-{{< figure src="/posts/Imagenes/okular-build-it.jpg" alt="New Okular Website's build-it section" >}}
-And the Build It section shows how to build from source
+{{< figure src="/posts/Imagenes/okular-build-it.jpg" alt="Sección build-it del nuevo sitio web de Okular" >}}
+Y la sección Build It muestra cómo construir el programa desde el código fuente
 {{< /split >}}
 
 
