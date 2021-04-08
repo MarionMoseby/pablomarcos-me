@@ -11,18 +11,34 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: "Centre Hospitalier Universitaire Grenoble-Alpes"
+    url: "https://www.chu-grenoble.fr/"
+    location: Grenoble, France
+    # company overview
+    overview: CHU Grenoble is a leading medical center in Grenoble, which itself is one of France's research capitals
+  positions:
+  - designation: 
+    start: April 2021
+    end: July 2021
+    responsibilities: 
+        - As part of my ERASMUS, I am doing an Internship at CHU Grenoble, which I am using as a basis for my Degree's Thesis. I am working on the effects of tacrolimus on patients of renal transplants, using Python and biostatistical analysis.
+- company:
     name: "Universidad Politécnica de Madrid"
-    url: "upm.es"
+    url: "https://www.caminos.upm.es/default.asp"
     location: Madrid, Spain
     # company overview
     overview: UPM is one of tne of the leading European technical universities and the most prestigious engineer's school in the Madrid Region.
   positions:
-  - designation: Intern
-    start: June 2020
+  - designation: Intern at the Department of Applied Mathematics
+    start: February 2021
     end: March 2021
+    responsibilities: 
+        - In January 2021, I was rehired to redesign the website for the [Educational Innovation Group "Mathematical Thinking"'s scientific journal](https://revista.giepm.com/), which I helped transition to wordpress
+  - designation: Intern at the Educational Innovation Program
+    start: June 2020
+    end: September 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities: 
         - During the 'From Game to Theory' teacher-student colaboration scholarship, I helped program ['Who's that Function'](flyingflamingo.itch.io/whos-that-function), an interactive game which teaches students the basics of functions and their properties in an engaging and interesting manner, with an in-game dynamic similar to the 'Who's Who' series."
-        - In January 2021, I was rehired to redesign the website for the [Educational Innovation Group "Mathematical Thinking"'s scientific journal](https://revista.giepm.com/), which I helped transition to wordpress

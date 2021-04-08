@@ -18,7 +18,7 @@ degrees:
     url: "http://www.computationalbiologymaster.cbgp.upm.es/"  
 - name: ERASMUS on Bioinfomatics and Modelisation
   icon: fa-university
-  timeframe: 2020-21
+  timeframe: 2020-2021
   institution:
     name: INSA Lyon
     url: "https://biosciences.insa-lyon.fr/fr/content/parcours" 

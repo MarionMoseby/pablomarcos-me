@@ -16,7 +16,7 @@ Un abrazo. A veces sólo hace falta un abrazo. Reposar la cabeza suavemente en t
 
 Aunque sea en silencio. Aunque sólo sea con el torpe danzar de nuestros cuerpos, aunque no tengamos remedio y no superemos el miedo a revelar en voz alta que lo único que queremos es querernos. 
 
-Que tenemos que derretirnos en un abrazo sin pretensiones, un abrazo que no deje corazones rotos, sino tan solo la calma que nos cura poco a poco, la promesa de amistad entre nosotros y el deseo de que esto no toque fondo, mientras cae a plomo la noche y olvidamos poco a poco nuestros nombres, remendando así, con mil parches de colores, la suave tela de seda que visten nuestros corazones.
+Que tenemos que derretirnos en un abrazo sin pretensiones, un abrazo que no deje corazones rotos, sino tan solo la calma que nos cura poco a poco, la promesa de amistad entre nosotros y el deseo de que esto no toque fondo, mientras cae a plomo la noche y olvidamos a lo loco nuestros nombres, remendando así, con mil parches de colores, la suave tela de seda que visten nuestros corazones.
 
 Y es que al final, no hace falta que os cuente mis reflexiones, que intercambiemos reacciones o que detallemos en confesiones lo que ha pasado: ya lo sé, vosotros también necesitábais un abrazo.
 

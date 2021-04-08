@@ -1,6 +1,6 @@
 ---
 title: "SoK Final Status Report"
-date: 2021-04-09
+date: "2021-04-09 01:30:00 +0600"
 menu:
   sidebar:
     name: Status Report
@@ -46,6 +46,7 @@ In all, most features in the old webpage have been kept, while adding a more mod
 
 * The HTML labels `</details>` and `</summary>` exist! This has been super useful, as I have already used that knowledge in my personal webpage :p
 * How to use HUGO in general, and HUGO i18n in particular
+*  That, in my opinion, HUGO is not only much more modular and adaptable than, for example, WordPress, but, for people who know how to use the command terminal, it is even simpler than Wordpress itself
 * That Okular is adding PDF Signatures support!
 * How to wirte HTML, CSS and JavaScript, important knowledge that I have already applied in my next project, the website for the [Mathematics Journal "Pensamiento Matemático"](https://revista.giepm.com/)
 * KDE is as cool as I thought! 😏

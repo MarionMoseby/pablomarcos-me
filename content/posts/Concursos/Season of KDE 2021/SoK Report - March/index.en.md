@@ -1,6 +1,6 @@
 ---
 title: "SoK 2021 March Report"
-date: "2021-03-26 19:40:00 +0600"
+date: 2021-03-26 19:40:00 +0600
 menu:
   sidebar:
     name: SoK 2021 March

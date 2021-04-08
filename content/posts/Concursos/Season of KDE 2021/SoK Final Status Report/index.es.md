@@ -1,6 +1,6 @@
- ---
+---
 title: "SoK 2021 - Informe Final "
-date: 2021-04-09
+date: "2021-04-09 01:30:00 +0600"
 menu:
   sidebar:
     name: Informe Final
@@ -46,6 +46,7 @@ En definitiva, se han mantenido la mayoría de las características de la antigu
 
 * ¡Las etiquetas HTML `</details>` y `</summary>` existen! Esto ha sido súper útil, pues ya he utilizado ese conocimiento en mi página web personal :p
 * Cómo usar HUGO en general, y HUGO i18n en particular
+* Que, en mi opinión, HUGO es no solo mucho más modular y adaptable que, por ejemplo, WordPress, sino que, para las personas que sabemos usar la terminal de comandos, es incluso más sencillo
 * ¡Que Okular está añadiendo soporte para firmas PDF!
 * Cómo manejar HTML, CSS y JavaScript, conocimientos importantes que ya he aplicado en mi próximo proyecto, la web de la [Revista Científica "Pensamiento Matemático"](https://revista.giepm.com/)
 * ¡KDE es tan genial como pensaba! 😏

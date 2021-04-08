@@ -1,6 +1,6 @@
 ---
 title: "SoK 2021 - Informe de Abril"
-date: 2021-04-01
+date: "2021-04-01 14:45:00 +0600"
 menu:
   sidebar:
     name: SoK 2021 Abril
@@ -17,5 +17,3 @@ En definitiva, se han mantenido la mayoría de las características de la antigu
 Y aquí está [la nueva](https://okular.kde.org):
 
 {{< figure src="/posts/Imagenes/new-okular-site.png" alt="New Okular Website" >}}
-
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator

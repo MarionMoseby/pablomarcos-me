@@ -1,6 +1,6 @@
 ---
 title: "SoK 2021 April Report"
-date: 2021-04-01
+date: "2021-04-01 14:45:00 +0600"
 menu:
   sidebar:
     name: SoK 2021 April

@@ -18,6 +18,6 @@ Y, así, como el cuento de hadas se ha tornado pesadilla, ahora las encinas se c
 
 ---
 
-📸 : Photo by [Samuel Zeller](https://unsplash.com/@samuelzeller) on Unsplash 
+📸 : [Samuel Zeller](https://unsplash.com/@samuelzeller) on Unsplash 
 
 #gingko #poesiaenespañol #poesia #poetry #estrechosdemiras
