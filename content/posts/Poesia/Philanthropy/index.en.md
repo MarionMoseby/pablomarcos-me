@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: Philantropy
     identifier: philantropy
-    parent: poemas
+    parent: poems
     weight: 40
 author:
   name: Estrechos de Miras

@@ -25,16 +25,26 @@ buttons:
 projects:
 - name: Who's That Function
   logo: /images/sections/godot.png
-  role: Programmer
+  role: Game Developer
   timeline: "June 2020 - September 2020"
   url: https://codeberg.org/FlyingFlamingo/Whos-That-Function # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: A Who's Who-like game to show students the fundamental properties of functions. [In Spanish]
   tags: ["professional", "godot engine", "GDScript"]
+  
+- name: Mathematical Thinking Journal
+  logo: /images/sections/wordpress.png
+  role: Web Developer
+  timeline: "January 2021 - March 2021"
+  url: https://revista.giepm.com/en/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: I modernized the website for the MT Journal, and for [Innovation in Education Group "Mathematical Thinking"](https://giepm.com/), using WordPress
+  tags: ["professional", "WordPress", "webdev"]
+  
 - name: Season of KDE 2021
   logo: /images/sections/kde-logo.png
-  role: Programmer
-  timeline: "June 2020 - September 2020"
+  role: Web Developer
+  timeline: "January 2021 - April 2021"
   url: https://www.pablomarcos.me/posts/concursos/season-of-kde-2021/sok-final-status-report/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: I helped modernize the website for Okular, KDE's universal document reader, by using Carl's Schwan's aether-sass theme.

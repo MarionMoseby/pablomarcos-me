@@ -1,7 +1,6 @@
 ---
 title: "A punto de escapar"
 date: 2020-01-31 
-draft: yes
 menu:
   sidebar:
     name: Incertidumbre

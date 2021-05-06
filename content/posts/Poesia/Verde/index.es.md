@@ -4,7 +4,7 @@ date: 2021-02-22
 menu:
   sidebar:
     name: Verde
-    identifier: Verde
+    identifier: verde
     parent: poemas
     weight: 40
 author:
@@ -19,8 +19,6 @@ Sigo escuchando que el verde es el color de la esperanza, el color que siempre f
 Dicho y hecho. Voy a dejar de escuchar. Por una vez, será mi turno de hablar, o, mejor aún, de gritar, de que me escuchen encender las luces, de declararle a guerra a quienes dicen que es mejor que no sea yo mismo: voy a saltar al abismo, y se que, una vez abajo, le habré perdido el miedo al precipicio.
 
 ---
-
-Tema: Verde
 
 📸 : [Laura Lee](https://unsplash.com/@laura_lee) on Unsplash
 

@@ -12,8 +12,6 @@ author:
   image: /images/author/Estrechos.jpg
 ---
 
-Tema: Granada 
-
 Cuando escribimos este poema para Estrechos de Miras, la idea era competir por servir de soporte narrativo a este video de youtube:
 
 ---

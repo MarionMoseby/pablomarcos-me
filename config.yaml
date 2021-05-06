@@ -55,7 +55,7 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: false
+    enable: true
   #Add custom logos and favicon
   logo:
     main: "images/main-logo.png"

@@ -1,7 +1,6 @@
 ---
 title: "Tiempo de despedida"
 date: 2020-01-15 
-draft: yes
 menu:
   sidebar:
     name: Horizontes

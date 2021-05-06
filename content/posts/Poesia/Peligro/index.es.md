@@ -12,8 +12,6 @@ author:
   image: /images/author/Mr Framework.png
 ---
 
-Título: Colisión Inminente
-
 El peligro de las cosas hermosas es clavarte las espinas contemplando las rosas. El peligro de llamarte tesoro es dormirme, como un dragón, en tus cabellos de oro, y no volverme a despertar. El peligro es ahogarme en el mar de tus jos de hechizante aguamarina, o en la curva misteriosamente fina que dibujan tu boca cuando te sonrojas.
 Una estatua de un ángel con cuerpo femenino, sentada en un cementerio con tonos otroñales
 
