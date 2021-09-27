@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Computational Biotechnology undergraduate
+designation: Computational Biotechnologist
 # your company information
 company:
   name: UPM-ETSIAAB and INSA Lyon
@@ -18,7 +18,7 @@ company:
 resume: "files/CV_EN.pdf"
 
 # a summary about you
-summary: 'I am an undergraduate in Computational Biotechnology with an special interest in Free Software and Health. I am specially interested in the fields of privacy and data science.  In my free time, I contribute to Wikipedia and Openstreetmap.'
+summary: 'I am a recent graduate in Computational Biotechnology with an special interest in the fields of Free Software, Health. Privacy and Data Science.  In my free time, I contribute to Wikipedia and Openstreetmap.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -40,22 +40,28 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Team Work
+badges:
+- type: soft-skill-indicator
+  name: Team Work
   percentage: 85
   color: yellow
-- name: Storytelling
+- type: soft-skill-indicator
+  name: Storytelling
   percentage: 90
   color: blue
-- name: Public Speaking
+- type: soft-skill-indicator
+  name: Public Speaking
   percentage: 90
   color: orange
-- name: Writing Skills
+- type: soft-skill-indicator
+  name: Writing Skills
   percentage: 80
   color: sky
-- name: Creativity
+- type: soft-skill-indicator
+  name: Creativity
   percentage: 85
   color: pink
-- name: Flexibility
+- type: soft-skill-indicator
+  name: Flexibility
   percentage: 90
   color: green

@@ -1,0 +1,55 @@
+ # section information
+section:
+  name: Expérience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+  
+experiences:
+- company:
+    name: "European Engineering Learning Innovation and Science Alliance"
+    url: "https://eelisa.eu/"
+    location: Union Européenne
+    # company overview
+    overview: EELISA est une alliance d'universités techniques européennes de premier plan visant à définir et à mettre en œuvre un modèle commun d'"ingénieur européen" ancré dans la société.
+  positions:
+  - designation:
+    start: Septembre 2021
+    end: Novembre 2021
+    responsibilities:
+        - J'ai travaillé dans le cadre de la protocommunauté SSERIES (Science for a Sustainable Envision of Reality and Information for an Engaged Society) d'EELISA, où j'ai [aidé à présenter le projet](https://blogs.upm.es/sseries-eelisa/) à d'autres institutions membres et à promouvoir la diffusion, les activités et la présence en ligne des projets.
+- company:
+    name: "Centre Hospitalier Universitaire Grenoble-Alpes"
+    url: "https://www.chu-grenoble.fr/"
+    location: Grenoble, France
+    # company overview
+    overview: Le CHU de Grenoble est un centre médical de référence à Grenoble, qui est aussi l'une des capitales françaises de la recherche.
+  positions:
+  - designation:
+    start: Avril 2021
+    end: Julliet 2021
+    responsibilities:
+        - Dans le cadre de mon ERASMUS, j'ai effectué un stage au CHU de Grenoble, qui a servi de base à mon mémoire de licence. J'ai travaillé sur les effets du tacrolimus chez les patients ayant subi une transplantation rénale, en utilisant Python et l'analyse biostatistique.
+- company:
+    name: "Universidad Politécnica de Madrid"
+    url: "https://www.caminos.upm.es/default.asp"
+    location: Madrid, Espagne
+    # company overview
+    overview: L'UPM est l'une des principales universités techniques d'Europe et la plus prestigieuse école d'ingénieurs de la Communauté de Madrid.
+  positions:
+  - designation: Stagiaire au Département de Mathématiques Appliquées
+    start: Février 2021
+    end: Mars 2021
+    responsibilities:
+        - En janvier 2021, j'ai été engagé à nouveau pour refaire le site web de la revue scientifique du [Grupo de Innovación Educativa "Pensamiento Matemático"] (https://revista.giepm.com/), que j'ai aidé à passer à wordpress.
+  - designation: Stagiaire au Programme d'Innovation Éducative
+    start: Juin 2020
+    end: Septembre 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+        - Dans le cadre de la bourse de collaboration entre enseignants et étudiants "Du jeu à la théorie", j'ai participé à la programmation de ['Who's that Function'](flyingflamingo.itch.io/whos-that-function), un jeu interactif qui enseigne aux étudiants les bases des fonctions et de leurs propriétés d'une manière attrayante et intéressante, avec un gameplay similaire à celui de la série "Guess Who"." Ce jeu a reçu une [mention honorable au concours "Science in Action"](https://cienciaenaccion.org/resolucion-jurado-ciencia-en-accion-xxii-no-presencial-y-adopta-una-estrella/).

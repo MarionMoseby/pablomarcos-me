@@ -1,0 +1,57 @@
+ # section information
+section:
+  name: Experiencia
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+
+# Your experiences
+experiences:
+- company:
+    name: "European Engineering Learning Innovation and Science Alliance"
+    url: "https://eelisa.eu/"
+    location: Unión Europea
+    # company overview
+    overview: EELISA es una alianza de las principales universidades técnicas europeas destinada a definir y aplicar un modelo común de "ingeniero europeo" arraigado en la sociedad.
+  positions:
+  - designation:
+    start: Septiembre 2021
+    end: Noviembre 2021
+    responsibilities:
+        - Trabajé como parte de la Protocomunidad SSERIES (Science for a Sustainable Envision of Reality and Information for an Engaged Society) de EELISA, donde [ayudé a presentar el proyecto](https://blogs.upm.es/sseries-eelisa/) a otras instituciones miembros y a defender el alcance de los proyectos, sus actividades y su presencia en línea.
+- company:
+    name: "Centre Hospitalier Universitaire Grenoble-Alpes"
+    url: "https://www.chu-grenoble.fr/"
+    location: Grenoble, Francia
+    # company overview
+    overview: El CHU Grenoble es un centro médico de referencia en Grenoble, que a su vez es una de las capitales de la investigación en Francia
+  positions:
+  - designation:
+    start: Abril 2021
+    end: Julio 2021
+    responsibilities:
+        - Como parte de mi ERASMUS, hice unas prácticas en el CHU de Grenoble, que me sirvieron de base para mi tesis de licenciatura. Trabajé en los efectos del tacrolimus en pacientes de trasplantes renales, utilizando Python y análisis bioestadísticos.
+- company:
+    name: "Universidad Politécnica de Madrid"
+    url: "https://www.caminos.upm.es/default.asp"
+    location: Madrid, España
+    # company overview
+    overview: La UPM es una de las principales universidades técnicas europeas y la escuela de ingenieros más prestigiosa de la Comunidad de Madrid.
+  positions:
+  - designation: Intern at the Department of Applied Mathematics
+    start: Febrero 2021
+    end: Marzo 2021
+    responsibilities:
+        - En enero de 2021, me volvieron a contratar para rediseñar el sitio web de la revista científica del [Grupo de Innovación Educativa "Pensamiento Matemático"](https://revista.giepm.com/), al que ayudé a pasar a wordpress
+  - designation: Intern at the Educational Innovation Program
+    start: Junio 2020
+    end: Septiembre 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+        - Durante la beca de colaboración entre profesores y alumnos "Del juego a la teoría", ayudé a programar ['Who's that Function'](flyingflamingo.itch.io/whos-that-function), un juego interactivo que enseña a los estudiantes los fundamentos de las funciones y sus propiedades de forma atractiva e interesante, con una dinámica de juego similar a la de la serie "Adivina quién"." Este juego ha recibido una mención de honor en el concurso ["Ciencia en Acción"](https://cienciaenaccion.org/resolucion-jurado-ciencia-en-accion-xxii-no-presencial-y-adopta-una-estrella/).

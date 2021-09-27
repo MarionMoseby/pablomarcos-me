@@ -12,29 +12,29 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Python Scripting
-  icon: "/images/sections/python.png"
+  logo: "/images/sections/python.png"
   summary: "J'ai une connaissance avancée de Python comme langage de script en général, et de BioPython comme paquet en particulier, surtout appliqué à la biologie computationnelle."
   url: "https://codeberg.org/FlyingFlamingo/BioPython-Analyzer"
 
-- name: Administration système GNU/Linux
-  icon: "/images/sections/linux.png"
-  summary: "J'utilise GNU/Linux comme système d'exploitation principal, et je gère également un serveur auto-hébergé utilisant une Raspberry Pi et Yunohost. Principalement des dérivés debian."
+- name: Développement web
+  logo: "/images/sections/firefox.png"
+  summary: "Je sais comment développer des sites web beaux, attrayants et réactifs, comme celui-ci, en utilisant HUGO, WordPress et la plupart des CMS commerciaux."
 
 - name: Développement de jeux vidéo à Godot
-  icon: "/images/sections/godot.png"
+  logo: "/images/sections/godot.png"
   summary: "J'ai utilisé le moteur Godot dans le cadre de 'Who's That Function', un programme interactif conçu pour enseigner aux étudiants novices les propriétés fondamentales des fonctions."
   url: "https://codeberg.org/FlyingFlamingo/Whos-That-Function"
   
 - name: English
-  icon: "/images/sections/UK.png"
+  logo: "/images/sections/UK.png"
   summary: "Niveau : C1 | Lecture : C2 | Écoute : C1 | Grammaire : B1 | Vocabulaire : C1, selon Cambridge English"
   url: "/files/CAE.pdf"
   
 - name: Español
-  icon: "/images/sections/Spain.png"
+  logo: "/images/sections/Spain.png"
   summary: "Je suis un locuteur natif, puisque je suis né à Madrid"
   
 - name: Français
-  icon: "/images/sections/France.png"
-  summary: "Niveau : B2 | Lecture : C2 | Écoute : C1 | Grammaire : B1 | Vocabulaire : C1, selon l'Université Grenoble Alpes"
+  logo: "/images/sections/France.png"
+  summary: "Niveau : B2 | Compréhension de l'écrit: B2 | Compréhension de l'oral: B2 | Expression écrite courte: B1, selon l'Université Grenoble Alpes"
   url: "/files/French B2.pdf"

@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Habilidades
+  name: Skills
   id: skills
   enable: true
   weight: 2
@@ -11,30 +11,30 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Scripting en Python
-  icon: "/images/sections/python.png"
+- name: Python Scripting
+  logo: "/images/sections/python.png"
   summary: "Tengo conocimientos avanzados sobre Python como lenguaje de scripting en general, y BioPython como paquete en particular, especialmente aplicados a la biología computacional."
   url: "https://codeberg.org/FlyingFlamingo/BioPython-Analyzer"
 
-- name: Administración de sistemas GNU/Linux
-  icon: "/images/sections/linux.png"
-  summary: "Uso GNU/Linux como mi Sistema Operativo principal, y gestiono un servidor self-hosted usando una Raspberry Pi y Yunohost. Principalmente, trabajo con derivadas de debian."
+- name: Desarollo Web
+  logo: "/images/sections/firefox.png"
+  summary: "Sé cómo desarrollar sitios web bonitos, atractivos y con capacidad de respuesta, como éste, utilizando HUGO, WordPress y la mayoría de los CMS comerciales."
 
-- name: Desarollo de Videojuegos en Godot
-  icon: "/images/sections/godot.png"
+- name: Godot Development
+  logo: "/images/sections/godot.png"
   summary: "He usado el Godot Engine como parte de 'Who's That Function', un programa interactivo destinado a enseñar a los estudiantes novatos las propiedades fundamentales de las funciones."
   url: "https://codeberg.org/FlyingFlamingo/Whos-That-Function"
-  
+
 - name: English
-  icon: "/images/sections/UK.png"
+  logo: "/images/sections/UK.png"
   summary: "Nivel: C1 | Reading: C2 | Listening: C1 | Grammar: B1 | Vocabulary: C1, de acuerdo a Cambridge English"
   url: "/files/CAE.pdf"
-  
+
 - name: Español
-  icon: "/images/sections/Spain.png"
+  logo: "/images/sections/Spain.png"
   summary: "Soy un hablante nativo, ya que nací en Madrid"
-  
+
 - name: Français
-  icon: "/images/sections/France.png"
-  summary: "Level: B2 | Reading: C2 | Listening: C1 | Grammar: B1 | Vocabulary: C1, de acuerdo a la Université Grenoble Alpes"
+  logo: "/images/sections/France.png"
+  summary: "Nivel: B2 | Compréhension de l'écrit: B2 | Compréhension de l'oral: B2 | Expression écrite courte: B1, de acuerdo a la Université Grenoble Alpes"
   url: "/files/French B2.pdf"

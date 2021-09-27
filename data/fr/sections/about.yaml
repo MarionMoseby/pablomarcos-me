@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Étudiant en biotechnologie informatique
+designation: Bioinformaticien
 # your company information
 company:
   name: UPM-ETSIAAB et INSA Lyon
@@ -18,7 +18,7 @@ company:
 resume: "files/CV_FR.pdf"
 
 # a summary about you
-summary: "Je suis étudiant en biotechnologie informatique et je m'intéresse tout particulièrement aux domaines des logiciels libres et de la santé, ainsi qu'aux questions éthiques liées à la vie privée et à l'intelligence artificielle. Pendant mon temps libre, je contribue à Wikipédia et à OpenStreetMap."
+summary: "Je suis biotechnologue Informatique et je m'intéresse tout particulièrement aux domaines des logiciels libres et de la santé, ainsi qu'aux questions éthiques liées à la vie privée et à l'intelligence artificielle. Pendant mon temps libre, je contribue à Wikipédia et à OpenStreetMap."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

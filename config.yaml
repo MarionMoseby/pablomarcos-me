@@ -44,16 +44,34 @@ params:
   background: "/images/site/background.png"
   
   # GitHub repo URL of your site
-  gitRepo: https://codeberg.org/FlyingFlamingo/pablomarcos.me/
+  gitRepo: https://codeberg.org/FlyingFlamingo/pablomarcos.me
+  gitForge: gitea
+  gitBranch: main
 
-  # specify whether you want to write some blog posts or not
-  enableBlogPost: false
+  #specify whether you want to write some blog posts or not
+  features:
+    blog:
+      enable: false
+      # Share post on different social media
+      shareButtons:
+        facebook: true
+        twitter: true
+        reddit: true
+        tumblr: true
+        pocket: true
+        linkedin: true
+        diaspora: true
+        mastodon: true
+        whatsapp: true
+        email: true
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
 
-  # Provide newsletter configuration. This feature hasn't been implemented yet.
-  # Currently, you can just hide it from the footer.
+  # Show tags under the post title
+  enableTags: true
+
+  # Provide newsletter configuration.
   newsletter:
     enable: true
   #Add custom logos and favicon

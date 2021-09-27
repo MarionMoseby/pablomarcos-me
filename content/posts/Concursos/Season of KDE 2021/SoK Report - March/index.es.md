@@ -52,30 +52,3 @@ Puedes ver cómo queda aquí:
 Puedes buscar usando la barra de navegación, y los resultados están resaltados
 
 Sí, ha sido un mes con mucho trabajo, pero, ¡por fin está todo listo! 🥳
-
-<style>
-details {
-    border: 1px solid #5850ec;
-    border-radius: 10px;
-    padding: .5rem .5rem 0;
-}
-
-summary {
-    margin: -.5rem -.5rem 0;
-    padding: .5rem;
-}
-
-summary:hover {
-    font-weight: bold;
-}
-
-details[open] {
-    padding: .5rem;
-}
-
-details[open] summary {
-    border-bottom: 1px solid #aaa;
-    margin-bottom: .5rem;
-    font-weight: bold;
-}
-</style>

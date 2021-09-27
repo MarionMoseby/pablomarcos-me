@@ -11,6 +11,18 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: "European Engineering Learning Innovation and Science Alliance"
+    url: "https://eelisa.eu/"
+    location: European Union
+    # company overview
+    overview: EELISA is an alliance of leading Europeaan Technical Universities meant to define and implement a common model of "European engineer" rooted in society.
+  positions:
+  - designation:
+    start: September 2021
+    end: November 2021
+    responsibilities:
+        - I worked as part of the SSERIES (Science for a Sustainable Envision of Reality and Information for an Engaged Society) EELISA Protocommunity, where I [helped present the project](https://blogs.upm.es/sseries-eelisa/) to other Member Institutions and defie the reach of the projects, its activities, and its online presence.
+- company:
     name: "Centre Hospitalier Universitaire Grenoble-Alpes"
     url: "https://www.chu-grenoble.fr/"
     location: Grenoble, France
@@ -21,7 +33,7 @@ experiences:
     start: April 2021
     end: July 2021
     responsibilities: 
-        - As part of my ERASMUS, I am doing an Internship at CHU Grenoble, which I am using as a basis for my Degree's Thesis. I am working on the effects of tacrolimus on patients of renal transplants, using Python and biostatistical analysis.
+        - As part of my ERASMUS, I did an Internship at CHU Grenoble, which I used as the basis for my Degree's Thesis. I worked on the effects of tacrolimus on patients of renal transplants, using Python and biostatistical analysis.
 - company:
     name: "Universidad Politécnica de Madrid"
     url: "https://www.caminos.upm.es/default.asp"
@@ -41,4 +53,4 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities: 
-        - During the 'From Game to Theory' teacher-student colaboration scholarship, I helped program ['Who's that Function'](flyingflamingo.itch.io/whos-that-function), an interactive game which teaches students the basics of functions and their properties in an engaging and interesting manner, with an in-game dynamic similar to the 'Who's Who' series."
+        - During the 'From Game to Theory' teacher-student colaboration scholarship, I helped program ['Who's that Function'](flyingflamingo.itch.io/whos-that-function), an interactive game which teaches students the basics of functions and their properties in an engaging and interesting manner, with an in-game dynamic similar to the 'Guess Who?' series." This game has received an Honourable Mention in the ["Science in Action" contest](https://cienciaenaccion.org/resolucion-jurado-ciencia-en-accion-xxii-no-presencial-y-adopta-una-estrella/).

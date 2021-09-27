@@ -3,7 +3,7 @@ section:
   name: Proyectos
   id: projects
   enable: true
-  weight: 4
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -23,6 +23,15 @@ buttons:
 
 # your projects
 projects:
+- name: Tacrolimus y trasplante de riñón
+  logo: /images/sections/chu-grenoble.png
+  role: Investigador-Programador
+  timeline: "Marzo 2021 - Julio 2021"
+  #repo: https://github.com/tensorflow/tensorflow
+  url: "files/Memoria TFG FIRMADA.pdf"
+  summary: Mi Tesis de Grado analiza el efecto de las trayectorias del nivel de sangre residual de Tacrolimus en la supervivencia del aloinjerto renal. El código se puede [consultar aquí](https://codeberg.org/FlyingFlamingo/destination-grenoble), y el texto se publicará como Open Access en el repositorio de la UPM próximamente.
+  tags: ["academic","biostadística","biotech"]
+
 - name: Who's That Function
   logo: /images/sections/godot.png
   role: Programador
@@ -32,6 +41,24 @@ projects:
   #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Un juego al estilo de la serie "¿Quién es Quién? que enseña a estudiantes de primer curso las propiedades de las funciones.
   tags: ["professional", "godot engine", "GDScript"]
+
+- name: Revista "Pensamiento Matemático"
+  logo: /images/sections/wordpress.png
+  role: Web Developer
+  timeline: "January 2021 - March 2021"
+  url: https://revista.giepm.com/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: He modernizado el sitio web de la [Revista "PM"](https://revista.giepm.com/) y del [Grupo de Innovación Educativa "Pensamiento Matemático"](https://giepm.com/), utilizando WordPress.
+  tags: ["professional", "WordPress", "webdev"]
+
+- name: Season of KDE 2021
+  logo: /images/sections/kde-logo.png
+  role: Web Developer
+  timeline: "January 2021 - April 2021"
+  url: https://www.pablomarcos.me/posts/concursos/season-of-kde-2021/sok-final-status-report/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Ayudé a modernizar el sitio web de Okular, el lector universal de documentos de KDE, utilizando el tema aether-sass de Carl Schwan.
+  tags: ["professional", "HUGO", "webdev", "html5"]
 
 - name: Modelado del CoViD-19 usando Python
   logo: /images/sections/coronavirus.png
@@ -43,6 +70,7 @@ projects:
   tags: ["academic", "mathematic models","biotechnology"]
   
 - name: Representante en el Consejo de Dpto @ UPM
+  logo: /images/sections/ETSIAAB.png
   role: 
   timeline: "Septiembre 2018 - Presente"
   #repo: https://github.com/hossainemruz/toha
@@ -68,6 +96,7 @@ projects:
 - name: Reparto Solidario Universitario
   role: Voluntario
   timeline: "2017-2020"
+  logo: /images/sections/RSU.jpg
   summary: Durante más de tres años, he sido voluntario en RSU, una Actividad Reconocida de la UPM donde ayudamos a personas sin hogar dándoles comida y conversación.
   url: https://www.instagram.com/rsu_madrid/?hl=es
   tags: ["volunteering"] 
@@ -82,6 +111,7 @@ projects:
 - name: Conferencia COP25 sobre el Cambio Climático
   role: Voluntario
   timeline: "2019"
+  logo: /images/sections/COP25.png
   summary:   He participado como voluntario en la Cumbre del Clima de Madrid de 2019, donde he aprendido sobre sostenibilidad y organización de grandes eventos.
   url: "files/COP25 Certificate.pdf"
   tags: ["volunteering"] 

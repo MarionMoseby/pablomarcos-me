@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Graduando en Biotecnología Computacional
+designation: Graduado en Biotecnología Computacional
 # your company information
 company:
   name: UPM-ETSIAAB e INSA Lyon
@@ -18,7 +18,7 @@ company:
 resume: "files/CV_ES.pdf"
 
 # a summary about you
-summary: 'Soy un graduando en Biotecnología Computacional con un especial interés en los campos del Software Libre y la Salud, así como las cuestiones éticas en torno a la privacidad y la inteligencia artificial. En mi tiempo libre, contribuyo a Wikipedia y OpenStreetMap.'
+summary: 'Soy un graduado en Biotecnología Computacional con un especial interés en los campos del Software Libre y la Salud, así como las cuestiones éticas en torno a la privacidad y la inteligencia artificial. En mi tiempo libre, contribuyo a Wikipedia y OpenStreetMap.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

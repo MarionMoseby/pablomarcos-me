@@ -22,7 +22,17 @@ buttons:
   filter: "volunteering"
 
 # your projects
+
 projects:
+- name: Tacrolimus & kidney transplant
+  logo: /images/sections/chu-grenoble.png
+  role: Researcher-Programmer
+  timeline: "March 2021 - July 2021"
+  #repo: https://github.com/tensorflow/tensorflow
+  url: "files/Memoria TFG FIRMADA.pdf"
+  summary: My Degree's Thesis analyzes the effect of Tacrolimus Residual Blood level trajectories on kidney allograft survival. The code can be [consulted here](https://codeberg.org/FlyingFlamingo/destination-grenoble), and the text will be publised as Open Access in UPM's repository soon.
+  tags: ["academic","biostatistics","biotech"]
+
 - name: Who's That Function
   logo: /images/sections/godot.png
   role: Game Developer
@@ -38,7 +48,7 @@ projects:
   timeline: "January 2021 - March 2021"
   url: https://revista.giepm.com/en/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: I modernized the website for the MT Journal, and for [Innovation in Education Group "Mathematical Thinking"](https://giepm.com/), using WordPress
+  summary: I modernized the website for the [MT Journal](https://revista.giepm.com/), and for [Innovation in Education Group "Mathematical Thinking"](https://giepm.com/), using WordPress
   tags: ["professional", "WordPress", "webdev"]
   
 - name: Season of KDE 2021
@@ -56,8 +66,8 @@ projects:
   timeline: "June 2020"
   #repo: https://github.com/tensorflow/tensorflow
   url: "files/ Alóndiga_Marcos_Patón_Estudio_de_la_Pandemia_por_CoViD-19_mediante_modelos_compartimentales.pdf"
-  summary: A paper measuring the impact of movement restriction measures in the first wave of CoViD-19 in Spain [In Spanish]
-  tags: ["academic", "mathematic models","biotechnology"]
+  summary: A paper measuring the impact of movement restriction measures in the first wave of CoViD-19 in Spain [In Spanish]. It has been published by the [Congress of Biotechnology Students](http://oa.upm.es/67410/)
+  tags: ["academic", "mathematic models","biotech"]
   
 - name: Board of Representatives @ UPM
   logo: /images/sections/ETSIAAB.png
