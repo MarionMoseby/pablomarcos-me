@@ -39,10 +39,10 @@ echo -e "Site has being deployed"
 if [ "$1" = --codeberg ] || [ "$1" = -c ]; then
 cd ../pablomarcos.me/
 echo -e "Printing git status for you to decide which commit to make..."
+git add .
 git status
 echo -e "Uploading source code to Codeberg. Please provide a Git comment ..."
 read commit
-git add .
 git commit -m "$commit"
 git push
 echo -e "Source code has been published"

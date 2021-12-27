@@ -22,6 +22,6 @@ Yo me bajo aquí. Aquí comienza mi nueva vida. Si tú necesitas seguir, buena s
 
 📸 : [Chris Yang](https://unsplash.com/@chrisyangchrisfilm) en [Unsplash](https://unsplash.com/photos/H73k0IUQbn0)
 
-#hechizo #spell #poesiaenespañol #estrechosdemiras #poesia #poetry
+#despedida #farewell #poesiaenespañol #estrechosdemiras #poesia #poetry
 
 {{<mastobutton>}}

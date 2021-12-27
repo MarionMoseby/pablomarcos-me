@@ -42,6 +42,7 @@ enableEmoji: true
 params:
   #Background IMG for your page
   background: "/images/site/background.png"
+  enableTags: true
   
   # GitHub repo URL of your site
   gitRepo: https://codeberg.org/FlyingFlamingo/pablomarcos.me
