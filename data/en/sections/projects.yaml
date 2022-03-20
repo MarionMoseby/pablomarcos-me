@@ -30,7 +30,7 @@ projects:
   timeline: "March 2021 - July 2021"
   #repo: https://github.com/tensorflow/tensorflow
   url: "files/Memoria TFG FIRMADA.pdf"
-  summary: My Degree's Thesis analyzes the effect of Tacrolimus Residual Blood level trajectories on kidney allograft survival. The code can be [consulted here](https://codeberg.org/FlyingFlamingo/destination-grenoble), and the text will be publised as Open Access in UPM's repository soon.
+  summary: My Degree's Thesis analyzes the effect of Tacrolimus Residual Blood level trajectories on kidney allograft survival. The code can be [consulted here](https://codeberg.org/FlyingFlamingo/destination-grenoble), and the text is publised as [Open Access in UPM's repository](https://oa.upm.es/69676/).
   tags: ["academic","biostatistics","biotech"]
 
 - name: Who's That Function

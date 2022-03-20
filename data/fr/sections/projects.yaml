@@ -29,7 +29,7 @@ projects:
   timeline: "Marzo 2021 - Julio 2021"
   #repo: https://github.com/tensorflow/tensorflow
   url: "files/Memoria TFG FIRMADA.pdf"
-  summary: Ma thèse analyse l'effet des trajectoires des taux sanguins résiduels de Tacrolimus sur la survie des allogreffes rénales. [Le code peut être consulté ici](https://codeberg.org/FlyingFlamingo/destination-grenoble), et le texte sera bientôt publié en accès libre dans le dépôt de l'UPM.
+  summary: Ma thèse analyse l'effet des trajectoires des taux sanguins résiduels de Tacrolimus sur la survie des allogreffes rénales. [Le code peut être consulté ici](https://codeberg.org/FlyingFlamingo/destination-grenoble), et le texte est publié en [accès libre dans le Dépôt de l'UpM](https://oa.upm.es/69676/).
   tags: ["academic","biostadistique","biotech"]
 
 - name: Who's That Function

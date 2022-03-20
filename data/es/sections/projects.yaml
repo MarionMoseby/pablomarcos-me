@@ -29,7 +29,7 @@ projects:
   timeline: "Marzo 2021 - Julio 2021"
   #repo: https://github.com/tensorflow/tensorflow
   url: "files/Memoria TFG FIRMADA.pdf"
-  summary: Mi Tesis de Grado analiza el efecto de las trayectorias del nivel de sangre residual de Tacrolimus en la supervivencia del aloinjerto renal. El código se puede [consultar aquí](https://codeberg.org/FlyingFlamingo/destination-grenoble), y el texto se publicará como Open Access en el repositorio de la UPM próximamente.
+  summary: Mi Tesis de Grado analiza el efecto de las trayectorias del nivel de sangre residual de Tacrolimus en la supervivencia del aloinjerto renal. El código se puede [consultar aquí](https://codeberg.org/FlyingFlamingo/destination-grenoble), y el texto está publicado como Open Access [en el repositorio de la UPM](https://oa.upm.es/69676/).
   tags: ["academic","biostadística","biotech"]
 
 - name: Who's That Function

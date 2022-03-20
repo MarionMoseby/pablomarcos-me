@@ -30,6 +30,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      footnote: true
   tableOfContents:
     startLevel: 2
     endLevel: 6
@@ -51,6 +53,27 @@ params:
 
   #specify whether you want to write some blog posts or not
   features:
+    Analytics:
+
+    params:
+  features:
+    analytics:
+      enabled: true
+
+      CounterDev:
+        id: counter-analytics@loreak.org
+      GoatCounter:
+        code: n9zp7
+
+    Support:
+      enabled: true
+
+      kofi:
+        user: "pablomarcos"
+        text: "Apóyame"
+        backgroundcolor: "#00b9fe"
+        textcolor: "#fff"
+
     blog:
       enable: false
       # Share post on different social media
@@ -80,3 +103,4 @@ params:
     main: "images/main-logo.png"
     inverted: "images/inverted-logo.png"
     favicon: "images/new-favicon.png"
+

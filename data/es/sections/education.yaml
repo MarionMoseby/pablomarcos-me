@@ -32,6 +32,11 @@ degrees:
   institution:
     name: Universidad Politécnica de Madrid
     url: "https://www.etsiaab.upm.es/Internacional/Studies/BSc_Degrees?fmt=detail&prefmt=articulo&id=4a0b81635ed45510VgnVCM10000009c7648a____" 
+  publications: #(optional)
+  - title: Impacto de la evolución del nivel de tacrolimus en sangre en la supervivencia a alotransplante renal
+    url: "https://oa.upm.es/69676/"
+  - title: Estudio de la Pandemia Causada por Coronavirus (2020) mediante modelos epidemiológicos compartimentales
+    url: "https://oa.upm.es/67410/"
   grade: #(optional)
     scale: GPA
     achieved: 7.22

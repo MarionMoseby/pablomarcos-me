@@ -32,6 +32,11 @@ degrees:
   institution:
     name: Universidad Politécnica de Madrid
     url: "https://www.etsiaab.upm.es/Internacional/Studies/BSc_Degrees?fmt=detail&prefmt=articulo&id=4a0b81635ed45510VgnVCM10000009c7648a____" 
+  publications: #(optional)
+  - title: Tacrolimus residual blood level trajectories and kidney allograft survival
+    url: "https://oa.upm.es/69676/"
+  - title: Study of the Coronavirus Pandemic (2020) using compartmental epidemiological modelling
+    url: "https://oa.upm.es/67410/"
   grade: #(optional)
     scale: GPA
     achieved: 7.22
