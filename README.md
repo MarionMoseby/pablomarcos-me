@@ -1,6 +1,6 @@
 # pablomarcos.me
 
-<img src="https://codeberg.org/FlyingFlamingo/pablomarcos.me/raw/branch/main/screenshots/español.png" width="50%">.
+<img src="https://codeberg.org/FlyingFlamingo/pablomarcos-me/raw/branch/main/screenshots/español.png" width="50%">.
 <br>
 <br>
 

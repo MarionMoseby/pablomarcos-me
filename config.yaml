@@ -2,7 +2,7 @@ baseURL: https://www.pablomarcos.me
 
 languageCode: en-us
 title: "Pablo Marcos' Blog"
-theme: "toha"
+theme: ["toha", "reveal-hugo"]
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
@@ -23,7 +23,13 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON    
+    - JSON
+outputFormats:
+  Reveal:
+    baseName: index
+    mediaType: text/html
+    isHTML: true
+
 
 # Control TOC depth
 markup:
@@ -51,17 +57,20 @@ params:
   gitForge: gitea
   gitBranch: main
 
-  #specify whether you want to write some blog posts or not
-  features:
-    Analytics:
+  #Enable Dark Mode
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: system
 
-    params:
+  #Specify features
   features:
     analytics:
       enabled: true
 
       CounterDev:
         id: counter-analytics@loreak.org
+        referrerPolicy: no-referrer-when-downgrade
       GoatCounter:
         code: n9zp7
 

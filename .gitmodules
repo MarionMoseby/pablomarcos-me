@@ -3,3 +3,6 @@
 	path = themes/toha
 	url = https://github.com/hugo-toha/toha.git
 	branch = main
+[submodule "themes/reveal-hugo"]
+	path = themes/reveal-hugo
+	url = https://github.com/dzello/reveal-hugo

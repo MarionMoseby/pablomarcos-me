@@ -25,15 +25,15 @@ Por último, adjunto una tabla con mis calificaciones para cada una de las tarea
 
 ### Big Data Engineering
 
-| # |                    Título                   |                           Autor                           | Nota |
-|:-:|:-------------------------------------------:|:---------------------------------------------------------:|:----:|
-| 1 |            Walmart Stock Exercise           |         [Pablo Marcos](https://www.pablomarcos.me)        |  TBD |
-| 2 |           Predicting Crew Members           |         [Pablo Marcos](https://www.pablomarcos.me)        |  TBD |
-| 3 |            Predicting Churn Risk            |         [Pablo Marcos](https://www.pablomarcos.me)        |  TBD |
-| 4 |                  Hack Data                  |         [Pablo Marcos](https://www.pablomarcos.me)        |  TBD |
-| 5 |         Predicting Dog Food Spoiling        |         [Pablo Marcos](https://www.pablomarcos.me)        |  TBD |
-| 6 | Pneumonia identification from X-Ray Imagery | Yaiza Arnáiz & [Pablo Marcos](https://www.pablomarcos.me) | TBD  |
-| * |         Extra Point: Auto Insurance         |         [Pablo Marcos](https://www.pablomarcos.me)        |  TBD |
+| # |                    Título                   |                           Autor                           | Nota |                                  Comentarios                                 |
+|:-:|:-------------------------------------------:|:---------------------------------------------------------:|:----:|:----------------------------------------------------------------------------:|
+| 1 |            Walmart Stock Exercise           |         [Pablo Marcos](https://www.pablomarcos.me)        |   7  |  He usado Pandas en lugar de SPARK, que es el objetivo de la asignatura jeje |
+| 2 |           Predicting Crew Members           |         [Pablo Marcos](https://www.pablomarcos.me)        |  10  |                                       -                                      |
+| 3 |            Predicting Churn Risk            |         [Pablo Marcos](https://www.pablomarcos.me)        |  10  |                                       -                                      |
+| 4 |                  Hack Data                  |         [Pablo Marcos](https://www.pablomarcos.me)        |  10  |                                       -                                      |
+| 5 |         Predicting Dog Food Spoiling        |         [Pablo Marcos](https://www.pablomarcos.me)        |  10  |                                       -                                      |
+| 6 | Pneumonia identification from X-Ray Imagery | Yaiza Arnáiz & [Pablo Marcos](https://www.pablomarcos.me) |   9  |                                       -                                      |
+| * |         Extra Point: Auto Insurance         |         [Pablo Marcos](https://www.pablomarcos.me)        |   5  |                                       -                                      |
 
 ### Computational Tools in Evolutionary Biology
 
