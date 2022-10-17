@@ -28,9 +28,9 @@ projects:
   logo: /images/sections/neo4j.jpg
   role: Investigator
   timeline: "January 2022 - Present"
-  #repo: https://github.com/tensorflow/tensorflow
-  #url: "files/Using_Computational_Methods_to_Discover_Novel_Drugs_for_the_Treatment_of_Androgenetic_Alopecia.pdf"
-  summary: My Master's Thesis, carried out at the International Agency for Research on Cancer, uses graph databases to find potential cancer associations in newly-discovered or already existing components of the human metabolome.
+  # repo: https://codeberg.org/FlyingFlamingo/CanGraph
+  url: "files/Memoria TFM FIRMADA.pdf"
+  summary: My Master's Thesis, carried out at the International Agency for Research on Cancer, uses graph databases to find potential cancer associations in newly-discovered or already existing components of the human metabolome. [We called it CanGraph](https://flyingflamingo.codeberg.page/cangraph/).
   tags: ["academic","lead discovery","biotech"]
 
 - name: Lead Discovery for Androgenetic Alopecia

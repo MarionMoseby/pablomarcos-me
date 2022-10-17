@@ -11,17 +11,29 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: "International Agency for Research on Cancer"
+    url: "https://www.iarc.who.int/"
+    location: Lyon, France
+    # company overview
+    overview: IARC is a United Nations / World Health Organization specialized Agency charged with conducting and coordinating research into the causes of cancer
+  positions:
+  - designation:
+    start: February 2022
+    end: January 2023
+    responsibilities:
+        - As part of the OncoMetabolomics Team of the Nutrition and Metabolism branch, I developed [CanGraph](https://flyingflamingo.codeberg.page/cangraph/), a python utility to study and analyse cancer-associated metabolites using knowledge graphs. It uses graph databases to find potential cancer associations in newly-discovered or already existing components of the human metabolome
+- company:
     name: "European Engineering Learning Innovation and Science Alliance"
     url: "https://eelisa.eu/"
     location: European Union
     # company overview
-    overview: EELISA is an alliance of leading Europeaan Technical Universities meant to define and implement a common model of "European engineer" rooted in society.
+    overview: EELISA is an alliance of leading European Technical Universities meant to define and implement a common model of "European engineer" rooted in society.
   positions:
   - designation:
     start: September 2021
-    end: November 2021
+    end: January 2022
     responsibilities:
-        - I worked as part of the SSERIES (Science for a Sustainable Envision of Reality and Information for an Engaged Society) EELISA Protocommunity, where I [helped present the project](https://blogs.upm.es/sseries-eelisa/) to other Member Institutions and defie the reach of the projects, its activities, and its online presence.
+        - I worked as part of the SSERIES (Science for a Sustainable Envision of Reality and Information for an Engaged Society) EELISA Protocommunity, where I [helped present the project](https://blogs.upm.es/sseries-eelisa/) to other Member Institutions and define the reach of the projects, its activities, and its online presence. I also helped set up a beautiful website for their [Art & Science](https://blogs.upm.es/artandscience/) competition.
 - company:
     name: "Centre Hospitalier Universitaire Grenoble-Alpes"
     url: "https://www.chu-grenoble.fr/"

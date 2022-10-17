@@ -12,10 +12,19 @@ section:
 degrees:
 - name: MSc in Computational Biotechnology
   icon: fa-microscope
-  timeframe: 2021-2023
+  timeframe: 2021-2022
+  grade: #(optional)
+    scale: GPA
+    achieved: 8.96
+    outOf: 10
   institution:
     name: Universidad Politécnica de Madrid
     url: "http://www.computationalbiologymaster.cbgp.upm.es/"  
+  publications: #(optional)
+  - title: "CanGraph: a python utility to study and analyse cancer-associated metabolites using knowledge graphs"
+    url: "https://flyingflamingo.codeberg.page/cangraph/"
+  - title: Use of Computational Methods to Discover New Drugs to treat Androgenetic Alopecia
+    url: "files/Using_Computational_Methods_to_Discover_Novel_Drugs_for_the_Treatment_of_Androgenetic_Alopecia.pdf"
 - name: ERASMUS on Bioinfomatics and Modelisation
   icon: fa-university
   timeframe: 2020-2021

@@ -29,8 +29,11 @@ fi
 # ---- Sync HTML to Codeberg Pages ----
 echo -e "Uploading to Codeberg Pages. Please provide a comment for Git ..."
 read commit
+git add . > /dev/null
 git stash save > /dev/null #Save any existing changes
 git checkout pages > /dev/null #Change branch to pages
+echo -e "Reverting to last commit before pushing to reduce size increase..."
+git reset HEAD~1
 rm -r `ls | grep -v ".git"`
 mv /tmp/update-website/* ./ #Copy website content
 echo -e "www.pablomarcos.me \n
@@ -38,8 +41,8 @@ pablomarcos-me.flyingflamingo.codeberg.page \n
 pages.pablomarcos-me.flyingflamingo.codeberg.page \n
         " > .domains #Add the .domains file
 git add .
-git commit -m "$commit"
-git push
+git commit -m "$commit" > /dev/null
+git push --force
 echo -e "Site has been deployed"
 if [ -d /tmp/update-website/ ]; then rm -r /tmp/update-website/; fi
 git checkout main > /dev/null #Go back to main branch
