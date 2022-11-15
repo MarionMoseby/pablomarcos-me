@@ -1,0 +1,14 @@
+Exept otherwise noted, the images listed in this directory are licensed under the [Unsplash License](https://unsplash.com/license). The images have been compressed to keep the website light (and under the free START10 plan @ OVH)
+
+# Full License Text
+
+Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service.
+
+# Images with other licensing
+
+What follows can be machine-readable as a TSV. Please, when editing, make sure to use HARD tabs, not SOFT tabs.
+
+File	License	Author	Url
+
+Templete El Capricho.png	CC-By-SA-4.0	Nemo	https://commons.wikimedia.org/wiki/File:Parque_de_El_Capricho-Templete_de_Baco_(panoramica2).jpg
+Mr Framework.png	CC-By-SA-3.0 U	Nicolás Pérez	https://commons.wikimedia.org/wiki/File:Ardilla_campogrande_lou.jpg
